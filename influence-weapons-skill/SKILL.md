@@ -1,6 +1,6 @@
 ---
 name: influence-weapons-skill
-description: Deep dive into Robert Cialdini's 7 Weapons of Influence - research-backed persuasion principles that trigger automatic compliance. Master the science of ethical influence in copywriting.
+description: Master Robert Cialdini's 7 Weapons of Influence - research-backed persuasion principles that trigger automatic compliance. Use for reciprocity triggers, commitment consistency, social proof, authority positioning, liking similarity, scarcity urgency, unity tactics, and ethical influence in copywriting.
 ---
 
 # The 7 Weapons of Influence: Cialdini's Master Framework

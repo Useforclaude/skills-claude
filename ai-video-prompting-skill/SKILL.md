@@ -1,6 +1,6 @@
 ---
 name: ai-video-prompting-skill
-description: Hollywood-grade AI video generation prompting (Runway, Pika, Kling, Luma, Stable Video). Expert in text-to-video and image-to-video prompt engineering, camera controls, motion dynamics, character animation, scene design, lighting, cinematic storytelling, multi-platform workflows, and production-quality AI videography.
+description: Hollywood-grade AI video generation prompting (Runway, Pika, Kling, Luma, Stable Video). Use for text-to-video prompting, image-to-video workflows, camera controls, motion dynamics, character animation, scene design, lighting, cinematic storytelling, multi-platform workflows, and production-quality AI videography.
 ---
 
 # 🎬 AI Video Prompting Skill - Hollywood Production Grade

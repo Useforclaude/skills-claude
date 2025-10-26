@@ -1,6 +1,6 @@
 ---
 name: hypnotic-writing-skill
-description: Master Milton Erickson's conversational hypnosis patterns for ethical, trance-inducing copywriting that speaks directly to the unconscious mind
+description: Master Milton Erickson's conversational hypnosis patterns for ethical, trance-inducing copywriting that speaks directly to the unconscious mind. Use for embedded commands, trance states, therapeutic metaphors, confusion techniques, flow state copywriting, unconscious persuasion patterns, and Ericksonian language structures.
 version: 2.0.0
 author: Hypnotic Copywriting Institute
 tags: [hypnosis, erickson, trance, unconscious-mind, conversational-hypnosis, flow-state, copywriting, milton-model, therapeutic-metaphor]
