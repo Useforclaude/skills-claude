@@ -1,6 +1,6 @@
 ---
 name: architecture-patterns-skill
-description: Master architectural patterns and design patterns. Use for: MVC, MVVM, Clean Architecture, Hexagonal, Microservices, Event-Driven, CQRS, Saga, Repository pattern, Factory, Observer, Strategy, and choosing right patterns for specific problems.
+description: Master architectural patterns and design patterns. Use for: MVC, MVVM, Clean Architecture, Hexagonal, Microservices, Event-Driven, CQRS, Saga, Repository pattern, Factory, Observer, Strategy, and choosing right patterns for specific problems. Also use for Thai keywords "รูปแบบสถาปัตยกรรม", "design pattern", "สถาปัตยกรรม", "รูปแบบการออกแบบ", "MVC", "MVVM", "Clean Architecture", "Microservices", "Event-Driven", "CQRS", "Repository pattern", "Factory pattern", "Observer", "Strategy pattern", "เลือก pattern", "แก้ปัญหาด้วย pattern", "โครงสร้างโค้ด".
 ---
 
 # 🎨 Architecture Patterns Skill

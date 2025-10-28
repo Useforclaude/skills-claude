@@ -1,6 +1,6 @@
 ---
 name: value-stacking-skill
-description: Master value stacking to make prices feel irrelevant. Use for: bonus creation, stack architecture, perceived value amplification, contrast pricing, calculator psychology, order sequencing, ethical value presentation, and creating no-brainer offers.
+description: Master value stacking to make prices feel irrelevant. Use for: bonus creation, stack architecture, perceived value amplification, contrast pricing, calculator psychology, order sequencing, ethical value presentation, and creating no-brainer offers.. Also use for Thai keywords "ขาย", "การขาย", "นักขาย", "ปิดการขาย", "ปิดดีล", "เซลส์", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล", "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด"
 ---
 
 # Value Stacking Skill - Expert Guide
@@ -2058,3 +2058,38 @@ Master value stacking, and you'll never struggle to sell again.
 **Application:** Immediate
 
 For templates, examples, and reference materials, see the accompanying files in this skill directory.
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 5: Value Amplification of THE ULTIMATE STACK system.**
+
+### Same Layer (Value Amplification - Load All 5):
+- `irresistible-offers-skill` - Risk reversal, guarantees
+- `pricing-psychology-skill` - Charm pricing, decoy effects
+- `objection-crushing-skill` - Preemptive objection handling
+- `invisible-selling-skill` - Education-based, value-first
+
+### Next Layer (Execution - Load 3-5):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+- `nlp-copywriting-skill` - Meta-model, Milton model, reframing
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 5 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

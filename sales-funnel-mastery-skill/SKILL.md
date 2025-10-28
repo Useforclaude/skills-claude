@@ -1,6 +1,6 @@
 ---
 name: sales-funnel-mastery-skill
-description: Master Russell Brunson's sales funnel frameworks and conversion optimization. Use for funnel design, value ladder creation, frontend/backend offers, tripwire funnels, webinar funnels, product launch funnels, high-ticket funnels, book funnels, challenge funnels, application funnels, OTO/upsell/downsell sequences, cart abandonment recovery, email follow-up sequences, conversion rate optimization, split testing, funnel psychology, scarcity/urgency tactics, and building million-dollar sales funnels using ClickFunnels methodology and DotCom Secrets principles.
+description: Master Russell Brunson's sales funnel frameworks and conversion optimization. Use for funnel design, value ladder creation, frontend/backend offers, tripwire funnels, webinar funnels, product launch funnels, high-ticket funnels, book funnels, challenge funnels, application funnels, OTO/upsell/downsell sequences, cart abandonment recovery, email follow-up sequences, conversion rate optimization, split testing, funnel psychology, scarcity/urgency tactics, and building million-dollar sales funnels using ClickFunnels methodology and DotCom Secrets principles.. Also use for Thai keywords "ช่องทางขาย", "กระบวนการขาย", "funnel", "ขั้นตอนการขาย", "เส้นทางลูกค้า", "ขาย", "การขาย", "นักขาย", "ปิดการขาย", "ปิดดีล", "เซลส์", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล"
 ---
 
 # Sales Funnel Mastery Skill

@@ -1,6 +1,6 @@
 ---
 name: viral-content-skill
-description: Master viral content creation for TikTok, Instagram Reels, YouTube Shorts, and Twitter/X. Use for: viral psychology, hook formulas (first 3 seconds), emotional triggers (FOMO, curiosity, controversy, joy), platform optimization, timing strategies, trend-jacking, engagement loops, A/B testing, shareability factors, and cross-platform distribution for maximum reach and virality.
+description: Master viral content creation for TikTok, Instagram Reels, YouTube Shorts, and Twitter/X. Use for: viral psychology, hook formulas (first 3 seconds), emotional triggers (FOMO, curiosity, controversy, joy), platform optimization, timing strategies, trend-jacking, engagement loops, A/B testing, shareability factors, and cross-platform distribution for maximum reach and virality.. Also use for Thai keywords "ไวรัล", "แชร์ต่อ", "ปั งในโซเชียล", "แพร่กระจาย", "กระจายไวรัส", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "โซเชียลมีเดีย", "สื่อสังคมออนไลน์", "โพสต์", "คอนเทนต์โซเชียล"
 ---
 
 # 🚀 Viral Content Mastery Skill

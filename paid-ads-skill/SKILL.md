@@ -1,6 +1,6 @@
 ---
 name: paid-ads-skill
-description: Master paid advertising across platforms (Google Ads, Facebook Ads, TikTok Ads, LinkedIn Ads). Use for: campaign setup, audience targeting, ad copy, bidding strategies, A/B testing, conversion tracking, ROAS optimization, retargeting, lookalike audiences, campaign structure, budget allocation, and maximizing ROI from paid advertising channels.
+description: Master paid advertising across platforms (Google Ads, Facebook Ads, TikTok Ads, LinkedIn Ads). Use for: campaign setup, audience targeting, ad copy, bidding strategies, A/B testing, conversion tracking, ROAS optimization, retargeting, lookalike audiences, campaign structure, budget allocation, and maximizing ROI from paid advertising channels.. Also use for Thai keywords "โฆษณา", "ลงโฆษณา", "แอด", "โฆษณาออนไลน์", "Facebook Ads", "Google Ads", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล"
 ---
 
 # 💰 Paid Advertising Skill

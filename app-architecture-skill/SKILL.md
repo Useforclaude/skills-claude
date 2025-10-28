@@ -1,6 +1,6 @@
 ---
 name: app-architecture-skill
-description: Master software architecture and system design. Use for: architecture patterns (MVC, MVVM, Clean Architecture), microservices, monoliths, scalability planning, database design, API design, system components, deployment architecture, and building maintainable large-scale applications.
+description: Master software architecture and system design. Use for: architecture patterns (MVC, MVVM, Clean Architecture), microservices, monoliths, scalability planning, database design, API design, system components, deployment architecture, and building maintainable large-scale applications. Also use for Thai keywords "สถาปัตยกรรมซอฟต์แวร์", "ออกแบบระบบ", "โครงสร้างแอป", "สถาปัตยกรรมแอป", "Clean Architecture", "Microservices", "ออกแบบ API", "ออกแบบฐานข้อมูล", "ขยายระบบ", "scalability", "ระบบใหญ่", "แอปพลิเคชันใหญ่", "โครงสร้างโค้ด", "architecture pattern", "MVC", "MVVM", "ระบบที่ดี", "ระบบแข็งแรง".
 ---
 
 # 🏗️ Application Architecture Skill

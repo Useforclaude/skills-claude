@@ -1,6 +1,6 @@
 ---
 name: marketing-strategy-skill
-description: Master marketing strategy development and execution. Use for: market research, SWOT analysis, positioning, segmentation, targeting, marketing mix (4Ps/7Ps), customer journey mapping, growth hacking, brand strategy, competitive analysis, go-to-market planning, budgeting, and building comprehensive marketing strategies that drive business growth.
+description: Master marketing strategy development and execution. Use for: market research, SWOT analysis, positioning, segmentation, targeting, marketing mix (4Ps/7Ps), customer journey mapping, growth hacking, brand strategy, competitive analysis, go-to-market planning, budgeting, and building comprehensive marketing strategies that drive business growth.. Also use for Thai keywords "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล", "กลยุทธ์", "ยุทธศาสตร์", "strategy", "วางแผน", "ธุรกิจ", "ทำธุรกิจ", "business", "การทำธุรกิจ"
 ---
 
 # 📊 Marketing Strategy Skill

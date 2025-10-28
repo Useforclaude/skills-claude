@@ -1,6 +1,6 @@
 ---
 name: sales-copywriting-skill
-description: Master conversion-focused sales copy for high and low-ticket offers. Use for: AIDA, PAS, BAB frameworks, value proposition crafting, objection handling in copy, price presentation strategies, urgency/scarcity tactics, and multi-channel sales messaging.
+description: Master conversion-focused sales copy for high and low-ticket offers. Use for: AIDA, PAS, BAB frameworks, value proposition crafting, objection handling in copy, price presentation strategies, urgency/scarcity tactics, and multi-channel sales messaging.. Also use for Thai keywords "เขียนขาย", "เขียนโฆษณา", "คำโฆษณา", "ข้อความขาย", "copy", "เขียน copy", "ขาย", "การขาย", "นักขาย", "ปิดการขาย", "ปิดดีล", "เซลส์", "ขายปัง", "ปิดดีล", "ปิดจ๊อบ", "จัดเต็ม", "มาเต็ม", "แนบเนียน"
 ---
 
 # Sales Copywriting Expert Skill
@@ -1276,3 +1276,26 @@ This skill is based on proven direct response principles from:
 **Last Updated:** 2025-01-23
 **Version:** 1.0
 **Skill Level:** Expert (500-1000 lines)
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 6: Execution of THE ULTIMATE STACK system.**
+
+### Same Layer (Execution - Load All 4):
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+- `nlp-copywriting-skill` - Meta-model, Milton model, reframing
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 6 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

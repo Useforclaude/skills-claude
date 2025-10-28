@@ -1,6 +1,6 @@
 ---
 name: ui-ux-design-skill
-description: Master UI/UX design principles and user-centered design. Use for: user research, personas, user flows, wireframing, prototyping, usability testing, information architecture, visual hierarchy, Gestalt principles, Fitts's Law, Hick's Law, accessibility (WCAG), mobile-first design, responsive layouts, and creating intuitive, user-friendly interfaces.
+description: Master UI/UX design principles and user-centered design. Use for: user research, personas, user flows, wireframing, prototyping, usability testing, information architecture, visual hierarchy, Gestalt principles, Fitts's Law, Hick's Law, accessibility (WCAG), mobile-first design, responsive layouts, and creating intuitive, user-friendly interfaces.. Also use for Thai keywords "UI", "ส่วนติดต่อผู้ใช้", "หน้าจอ", "อินเทอร์เฟซ", "UX", "ประสบการณ์ผู้ใช้", "การใช้งาน", "ใช้งานง่าย", "ออกแบบ", "ดีไซน์", "การออกแบบ", "design"
 ---
 
 # 🎨 UI/UX Design Skill

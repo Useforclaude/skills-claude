@@ -1,6 +1,6 @@
 ---
 name: storytelling-mastery-skill
-description: Master narrative craft for marketing and copywriting. Use for: three-act structure, Hero's Journey, character development, conflict creation, emotional arcs, hook-build-payoff, story-based objection handling, and 50+ storytelling techniques.
+description: Master narrative craft for marketing and copywriting. Use for: three-act structure, Hero's Journey, character development, conflict creation, emotional arcs, hook-build-payoff, story-based objection handling, and 50+ storytelling techniques.. Also use for Thai keywords "เรื่องราว", "เล่าเรื่อง", "storytelling", "การเล่าเรื่อง", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "อารมณ์", "ความรู้สึก", "กระตุ้นอารมณ์", "อารมณ์ลูกค้า"
 ---
 
 # Storytelling Mastery Skill

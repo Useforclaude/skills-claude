@@ -1,6 +1,6 @@
 ---
 name: influence-weapons-skill
-description: Master Robert Cialdini's 7 Weapons of Influence - research-backed persuasion principles that trigger automatic compliance. Use for reciprocity triggers, commitment consistency, social proof, authority positioning, liking similarity, scarcity urgency, unity tactics, and ethical influence in copywriting.
+description: Master Robert Cialdini's 7 Weapons of Influence - research-backed persuasion principles that trigger automatic compliance. Use for reciprocity triggers, commitment consistency, social proof, authority positioning, liking similarity, scarcity urgency, unity tactics, and ethical influence in copywriting. Also use for Thai keywords "7 อาวุธแห่งอิทธิพล", "Cialdini", "reciprocity", "การตอบแทน", "commitment", "consistency", "สม่ำเสมอ", "social proof", "หลักฐานทางสังคม", "authority", "อำนาจ", "ผู้เชี่ยวชาญ", "liking", "ความชอบ", "scarcity", "ขาดแคลน", "unity", "ความเป็นหนึ่งเดียว", "โน้มน้าวใจ", "influence", "อิทธิพล".
 ---
 
 # The 7 Weapons of Influence: Cialdini's Master Framework
@@ -1267,3 +1267,38 @@ And once you deploy them, you can't take them back.
 **READY TO GO DEEPER?**
 
 Start with: `references/reciprocity.md` - The most powerful weapon of all.
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 3: Social Pressure of THE ULTIMATE STACK system.**
+
+### Same Layer (Social Pressure - Load All 5):
+- `social-proof-mastery-skill` - Testimonials, herd behavior, FOMO
+- `tribal-marketing-skill` - In-group pressure, identity
+- `compliance-techniques-skill` - Foot-in-door, door-in-face
+- `cognitive-biases-skill` - 100+ biases for marketing
+
+### Next Layer (Commitment Traps - Load 3-5):
+- `commitment-consistency-skill` - Foot-in-door, public pledges
+- `behavioral-economics-skill` - Loss aversion, sunk cost
+- `persuasion-psychology-skill` - Sequential requests, pre-suasion
+- `hypnotic-writing-skill` - Yes ladders, embedded commands
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 3 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

@@ -1,6 +1,6 @@
 ---
 name: web-psychology-design-skill
-description: Master psychology-driven web design for high-converting websites and web apps. Use for: UX psychology, persuasive design, cognitive load reduction, visual hierarchy, color psychology, typography psychology, layout optimization, conversion-focused design, attention manipulation, trust signals, social proof placement, scarcity tactics, FOMO triggers, friction reduction, decision fatigue prevention, and neuromarketing design principles.
+description: Master psychology-driven web design for high-converting websites and web apps. Use for: UX psychology, persuasive design, cognitive load reduction, visual hierarchy, color psychology, typography psychology, layout optimization, conversion-focused design, attention manipulation, trust signals, social proof placement, scarcity tactics, FOMO triggers, friction reduction, decision fatigue prevention, and neuromarketing design principles.. Also use for Thai keywords "ออกแบบ", "ดีไซน์", "การออกแบบ", "design", "UX", "ประสบการณ์ผู้ใช้", "การใช้งาน", "ใช้งานง่าย", "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด"
 ---
 
 # Web Psychology Design Skill

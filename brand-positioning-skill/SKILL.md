@@ -1,6 +1,6 @@
 ---
 name: brand-positioning-skill
-description: Master strategic brand positioning and competitive differentiation. Use for: positioning strategy development, category creation, competitive analysis, perceptual mapping, positioning statements, market differentiation, Blue Ocean Strategy, and repositioning mature brands.
+description: Master strategic brand positioning and competitive differentiation. Use for: positioning strategy development, category creation, competitive analysis, perceptual mapping, positioning statements, market differentiation, Blue Ocean Strategy, and repositioning mature brands. Also use for Thai keywords "ตำแหน่งแบรนด์", "วางตำแหน่งแบรนด์", "positioning", "จุดแตกต่าง", "ความแตกต่างแบรนด์", "วิเคราะห์คู่แข่ง", "สร้างหมวดหมู่ใหม่", "Blue Ocean", "กลยุทธ์แบรนด์", "จุดขายแบรนด์", "แบรนด์โดดเด่น", "ทำตลาดที่ไหน", "กลุ่มเป้าหมาย", "คู่แข่งคือใคร", "positioning statement", "ย้ายตำแหน่งแบรนด์".
 ---
 
 # Brand Positioning Mastery Skill

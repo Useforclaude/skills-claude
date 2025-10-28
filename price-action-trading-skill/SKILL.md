@@ -1,6 +1,6 @@
 ---
 name: price-action-trading-skill
-description: Master comprehensive price action trading and chart reading across all markets. Use for candlestick patterns (50+ patterns including Engulfing, Doji, Hammer, Pin Bar, Morning Star), chart patterns (Head & Shoulders, Double Top/Bottom, Triangles, Flags, Wedges), support/resistance zones, trendlines, market structure (higher highs/lows, swing points), order flow (supply/demand zones, liquidity pools), multi-timeframe analysis, top-down analysis, entry/exit strategies, and pure price action trading for Forex, Crypto, and Stocks without indicators.
+description: Master comprehensive price action trading and chart reading across all markets. Use for candlestick patterns (50+ patterns including Engulfing, Doji, Hammer, Pin Bar, Morning Star), chart patterns (Head & Shoulders, Double Top/Bottom, Triangles, Flags, Wedges), support/resistance zones, trendlines, market structure (higher highs/lows, swing points), order flow (supply/demand zones, liquidity pools), multi-timeframe analysis, top-down analysis, entry/exit strategies, and pure price action trading for Forex, Crypto, and Stocks without indicators.. Also use for Thai keywords "เทรด", "ซื้อขาย", "การเทรด", "trading", "วิเคราะห์กราฟ", "วิเคราะห์เทคนิค", "กราฟหุ้น", "เทคนิคคาล", "หุ้น", "ตลาดหุ้น", "stock", "หุ้นทุน"
 ---
 
 # 📈 Price Action Trading Mastery Skill

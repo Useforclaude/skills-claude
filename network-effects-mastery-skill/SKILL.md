@@ -1,6 +1,6 @@
 ---
 name: network-effects-mastery-skill
-description: Master network effects and platform economics for exponential growth. Use for: single-sided networks, multi-sided marketplaces, direct/indirect network effects, data network effects, viral coefficients (K-factor), platform tipping points, critical mass strategies, chicken-and-egg problems, network density, defensibility moats, platform business models (Uber, Airbnb, Facebook, Marketplace), creator networks, community-driven growth, and building businesses with compounding user value.
+description: Master network effects and platform economics for exponential growth. Use for: single-sided networks, multi-sided marketplaces, direct/indirect network effects, data network effects, viral coefficients (K-factor), platform tipping points, critical mass strategies, chicken-and-egg problems, network density, defensibility moats, platform business models (Uber, Airbnb, Facebook, Marketplace), creator networks, community-driven growth, and building businesses with compounding user value.. Also use for Thai keywords "เครือข่าย", "network effects", "ผลกระทบเครือข่าย", "ผู้ใช้งาน", "การเติบโต", "viral", "แพร่กระจาย", "ผลกระทบของเครือข่าย"
 ---
 
 # 🌐 Network Effects Mastery Skill

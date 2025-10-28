@@ -1,6 +1,6 @@
 ---
 name: code-quality-standards-skill
-description: Master code quality standards and best practices. Use for: clean code principles, SOLID, code review guidelines, refactoring techniques, naming conventions, code smells detection, technical debt management, and writing maintainable, readable, professional-grade code.
+description: Master code quality standards and best practices. Use for: clean code principles, SOLID, code review guidelines, refactoring techniques, naming conventions, code smells detection, technical debt management, and writing maintainable, readable, professional-grade code. Also use for Thai keywords "คุณภาพโค้ด", "เขียนโค้ดให้ดี", "Clean Code", "SOLID", "รีวิวโค้ด", "code review", "refactoring", "ปรับปรุงโค้ด", "โค้ดสะอาด", "อ่านโค้ดง่าย", "โค้ดที่ดี", "ตั้งชื่อตัวแปร", "naming convention", "code smell", "หนี้ทางเทคนิค", "technical debt", "เขียนโค้ดมืออาชีพ", "โค้ดมาตรฐาน".
 ---
 
 # ✨ Code Quality Standards Skill

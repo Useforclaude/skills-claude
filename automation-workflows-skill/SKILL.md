@@ -1,6 +1,6 @@
 ---
 name: automation-workflows-skill
-description: Master automation workflows for repetitive tasks using Make, n8n, Zapier, Python, and Bash. Use for content automation, video production pipelines, data processing, marketing workflows, AI content generation, batch operations, webhook integrations, API orchestration, and production-ready automation systems.
+description: Master automation workflows for repetitive tasks using Make, n8n, Zapier, Python, and Bash. Use for content automation, video production pipelines, data processing, marketing workflows, AI content generation, batch operations, webhook integrations, API orchestration, and production-ready automation systems. Also use for Thai keywords "ทำให้อัตโนมัติ", "ระบบอัตโนมัติ", "อัตโนมัติ", "ประมวลผลหลายไฟล์", "batch process", "workflow", "ลำดับงาน", "ลดขั้นตอน", "ทำงานซ้ำ", "ไม่ต้องทำเอง", "Make.com", "n8n", "Zapier", "Python script", "Bash script", "ประหยัดเวลา", "ทำงานรวด", "ระบบทำงานเอง".
 ---
 
 # 🤖 Automation Workflows Skill - Production-Grade Task Automation

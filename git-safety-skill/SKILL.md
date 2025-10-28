@@ -1,6 +1,6 @@
 ---
 name: git-safety-skill
-description: Master Git safety procedures and workflows. Use for: commit best practices, branch strategies, backup procedures, collaboration workflows, hook management, revert strategies, conflict resolution, and production-safe Git operations that prevent data loss and enable team collaboration.
+description: Master Git safety procedures and workflows. Use for: commit best practices, branch strategies, backup procedures, collaboration workflows, hook management, revert strategies, conflict resolution, and production-safe Git operations that prevent data loss and enable team collaboration. Also use for Thai keywords "Git", "git commit", "git branch", "สำรองข้อมูล", "backup", "ทำงานร่วมกัน", "collaboration", "git workflow", "revert", "ย้อนกลับ", "แก้ conflict", "ความขัดแย้ง", "ป้องกันข้อมูลหาย", "Git ปลอดภัย", "best practice", "แบรนช์", "git hook", "คอมมิท", "เซฟโค้ด".
 ---
 
 # 🔐 Git Safety Skill

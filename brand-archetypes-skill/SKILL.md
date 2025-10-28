@@ -1,6 +1,6 @@
 ---
 name: brand-archetypes-skill
-description: Master Jungian brand archetypes for powerful brand identity. Use for: archetype selection, archetype combinations, voice and tone development, visual identity alignment, messaging frameworks, customer connection strategies, and archetype application across touchpoints.
+description: Master Jungian brand archetypes for powerful brand identity. Use for: archetype selection, archetype combinations, voice and tone development, visual identity alignment, messaging frameworks, customer connection strategies, and archetype application across touchpoints. Also use for Thai keywords "บุคลิกแบรนด์", "แบรนด์อาร์คีไทป์", "12 อาร์คีไทป์", "archetype", "เสียงแบรนด์", "ลีลาแบรนด์", "ภาพลักษณ์แบรนด์", "จูงเป็น", "การสื่อสารแบรนด์", "ตัวตนแบรนด์", "บุคลิกภาพแบรนด์", "Hero archetype", "Sage archetype", "Lover archetype", "เชื่อมโยงลูกค้า", "สร้างแบรนด์".
 ---
 
 # Brand Archetypes Skill

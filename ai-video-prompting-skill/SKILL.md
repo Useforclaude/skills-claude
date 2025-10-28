@@ -1,6 +1,6 @@
 ---
 name: ai-video-prompting-skill
-description: Hollywood-grade AI video generation prompting (Runway, Pika, Kling, Luma, Stable Video). Use for text-to-video prompting, image-to-video workflows, camera controls, motion dynamics, character animation, scene design, lighting, cinematic storytelling, multi-platform workflows, and production-quality AI videography.
+description: Hollywood-grade AI video generation prompting (Runway, Pika, Kling, Luma, Stable Video). Use for text-to-video prompting, image-to-video workflows, camera controls, motion dynamics, character animation, scene design, lighting, cinematic storytelling, multi-platform workflows, and production-quality AI videography. Also use for Thai keywords "สร้างวิดีโอด้วย AI", "เขียนพรอมต์วิดีโอ", "Runway", "Sora", "Pika", "AI วิดีโอ", "วิดีโอ AI", "text to video", "ภาพเป็นวิดีโอ", "กล้อง AI", "เคลื่อนไหว AI", "แอนิเมชั่น AI", "แสงสว่างวิดีโอ", "ถ่ายหนัง AI", "สร้างหนัง AI", "ผู้กำกับ AI", "วิดีโอคุณภาพสูง".
 ---
 
 # 🎬 AI Video Prompting Skill - Hollywood Production Grade

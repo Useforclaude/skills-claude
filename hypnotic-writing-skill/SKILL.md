@@ -1,6 +1,6 @@
 ---
 name: hypnotic-writing-skill
-description: Master Milton Erickson's conversational hypnosis patterns for ethical, trance-inducing copywriting that speaks directly to the unconscious mind. Use for embedded commands, trance states, therapeutic metaphors, confusion techniques, flow state copywriting, unconscious persuasion patterns, and Ericksonian language structures.
+description: Master Milton Erickson's conversational hypnosis patterns for ethical, trance-inducing copywriting that speaks directly to the unconscious mind. Use for embedded commands, trance states, therapeutic metaphors, confusion techniques, flow state copywriting, unconscious persuasion patterns, and Ericksonian language structures. Also use for Thai keywords "การเขียนสะกดจิต", "hypnotic writing", "Milton Erickson", "สะกดจิต", "trance", "ภวังค์", "embedded commands", "คำสั่งฝังลึก", "จิตไร้สำนึก", "unconscious mind", "NLP", "flow state", "เขียนไหลลื่น", "โน้มน้าวจิตใต้สำนึก", "metaphor", "อุปมา", "ภาษาแฝง", "Ericksonian", "เขียนเพื่อโน้มน้าว".
 version: 2.0.0
 author: Hypnotic Copywriting Institute
 tags: [hypnosis, erickson, trance, unconscious-mind, conversational-hypnosis, flow-state, copywriting, milton-model, therapeutic-metaphor]
@@ -1477,3 +1477,38 @@ The most powerful hypnotic writing doesn't feel hypnotic. It feels like truth sp
 ---
 
 *"Your unconscious mind is reading between these lines right now. And it knows what to do next."*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 4: Commitment Traps of THE ULTIMATE STACK system.**
+
+### Same Layer (Commitment Traps - Load All 4):
+- `commitment-consistency-skill` - Foot-in-door, public pledges
+- `behavioral-economics-skill` - Loss aversion, sunk cost
+- `persuasion-psychology-skill` - Sequential requests, pre-suasion
+
+### Next Layer (Value Amplification - Load 3-5):
+- `value-stacking-skill` - Bonus stacking, price anchoring
+- `irresistible-offers-skill` - Risk reversal, guarantees
+- `pricing-psychology-skill` - Charm pricing, decoy effects
+- `objection-crushing-skill` - Preemptive objection handling
+- `invisible-selling-skill` - Education-based, value-first
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 4 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

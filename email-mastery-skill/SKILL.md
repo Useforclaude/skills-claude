@@ -1,6 +1,6 @@
 ---
 name: email-mastery-skill
-description: Master email marketing for high conversions (40%+ opens, 10%+ clicks). Use for: email sequences, subject line formulas, engagement strategies, newsletter frameworks, promotional emails, drip campaigns, and deliverability optimization.
+description: Master email marketing for high conversions (40%+ opens, 10%+ clicks). Use for: email sequences, subject line formulas, engagement strategies, newsletter frameworks, promotional emails, drip campaigns, and deliverability optimization. Also use for Thai keywords "อีเมลมาร์เก็ตติ้ง", "email marketing", "ส่งอีเมล", "อีเมลขาย", "หัวข้ออีเมล", "subject line", "open rate", "เปิดอ่าน", "click rate", "คลิก", "email sequence", "ลำดับอีเมล", "drip campaign", "newsletter", "จดหมายข่าว", "อีเมลโปรโมชั่น", "deliverability", "ส่งถึง inbox", "ไม่เข้า spam".
 ---
 
 # Email Mastery Skill

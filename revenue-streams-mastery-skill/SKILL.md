@@ -1,6 +1,6 @@
 ---
 name: revenue-streams-mastery-skill
-description: Master revenue stream design and diversification. Use for: 27+ revenue stream types, hidden revenue models, backend monetization, commission structures, licensing models, subscription economics, transaction fees, advertising revenue, affiliate income, multiple revenue stream stacking, revenue optimization, and building businesses with diversified, sustainable income sources.
+description: Master revenue stream design and diversification. Use for: 27+ revenue stream types, hidden revenue models, backend monetization, commission structures, licensing models, subscription economics, transaction fees, advertising revenue, affiliate income, multiple revenue stream stacking, revenue optimization, and building businesses with diversified, sustainable income sources.. Also use for Thai keywords "รายได้", "แหล่งรายได้", "สร้างรายได้", "revenue streams", "ธุรกิจ", "กลยุทธ์รายได้", "รายได้หลายช่องทาง"
 ---
 
 # 💸 Revenue Streams Mastery Skill

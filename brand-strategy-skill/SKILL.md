@@ -1,6 +1,6 @@
 ---
 name: brand-strategy-skill
-description: Master long-term brand building and strategic brand management. Use for: brand strategy development, brand architecture design, portfolio strategy, brand evolution planning, multi-brand strategies, brand equity management, and scaling brand systems.
+description: Master long-term brand building and strategic brand management. Use for: brand strategy development, brand architecture design, portfolio strategy, brand evolution planning, multi-brand strategies, brand equity management, and scaling brand systems. Also use for Thai keywords "กลยุทธ์แบรนด์", "สร้างแบรนด์", "วางแผนแบรนด์", "แบรนด์ระยะยาว", "brand strategy", "โครงสร้างแบรนด์", "brand architecture", "หลายแบรนด์", "multi-brand", "ขยายแบรนด์", "มูลค่าแบรนด์", "brand equity", "พัฒนาแบรนด์", "แผนแบรนด์", "บริหารแบรนด์", "แบรนด์ใหญ่", "แบรนด์ที่แข็งแรง".
 ---
 
 # Brand Strategy Skill

@@ -1,6 +1,6 @@
 ---
 name: persuasion-mastery-skill
-description: Master scientific persuasion principles and rhetoric. Use for: Cialdini's 7 principles, Aristotle's rhetoric (ethos/pathos/logos), Elaboration Likelihood Model, sequential persuasion, objection handling, and 60+ persuasion techniques.
+description: Master scientific persuasion principles and rhetoric. Use for: Cialdini's 7 principles, Aristotle's rhetoric (ethos/pathos/logos), Elaboration Likelihood Model, sequential persuasion, objection handling, and 60+ persuasion techniques.. Also use for Thai keywords "โน้มน้าว", "ชักจูง", "ทำให้เชื่อ", "การโน้มน้าวใจ", "influence", "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด", "อิทธิพล", "การมีอิทธิพล", "สร้างอิทธิพล", "ชักจูง", "โน้มน้าว"
 ---
 
 # Persuasion Mastery Skill

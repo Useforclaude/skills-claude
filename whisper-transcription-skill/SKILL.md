@@ -1,6 +1,6 @@
 ---
 name: whisper-transcription-skill
-description: Expert Whisper audio transcription for production use (OpenAI Whisper large-v3). Use for Thai transcription optimization, multilingual transcription, VAD integration, chunking strategies, hallucination removal, GPU optimization, SRT generation, and production-ready audio-to-text workflows.
+description: Expert Whisper audio transcription for production use (OpenAI Whisper large-v3). Use for Thai transcription optimization, multilingual transcription, VAD integration, chunking strategies, hallucination removal, GPU optimization, SRT generation, and production-ready audio-to-text workflows.. Also use for Thai keywords "วิดีโอ", "คลิป", "ภาพเคลื่อนไหว", "วีดีโอ", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "AI วิดีโอ", "สร้างวิดีโอ AI", "วิดีโอ AI", "AI สร้างวิดีโอ"
 ---
 
 # Whisper Transcription Expert Skill

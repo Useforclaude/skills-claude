@@ -1,6 +1,6 @@
 ---
 name: emotional-storytelling-skill
-description: Master emotional storytelling for deep audience connection. Use for: Plutchik's 8 emotions, emotional story arcs, vulnerability techniques, authenticity frameworks, evoking specific emotions, and creating memorable narrative experiences.
+description: Master emotional storytelling for deep audience connection. Use for: Plutchik's 8 emotions, emotional story arcs, vulnerability techniques, authenticity frameworks, evoking specific emotions, and creating memorable narrative experiences. Also use for Thai keywords "เรื่องราว", "เล่าเรื่อง", "storytelling", "การเล่าเรื่อง", "อารมณ์", "ความรู้สึก", "จังหวะอารมณ์", "ดึงอารมณ์", "กินใจ", "สะเทือนใจ", "เรื่องราวสะเทือนใจ", "เนื้อเรื่อง", "โครงเรื่อง", "ตัวละคร", "พล็อต", "เขียนเรื่อง", "สร้างเรื่อง".
 ---
 
 # Emotional Storytelling Skill
@@ -1933,3 +1933,41 @@ Tell stories that make people feel something real. Make it matter. Make it true.
 
 **Total Content:** 1,200+ lines
 **Next Steps:** Explore references for deep dives into specific emotional techniques and psychological foundations.
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 2: Emotional Override of THE ULTIMATE STACK system.**
+
+### Same Layer (Emotional Override - Load All 7):
+- `emotional-triggers-skill` - Fear, hope, anger amplification
+- `narrative-psychology-skill` - Story schemas, transportation
+- `scarcity-urgency-skill` - Time compression, temporal distortion
+- `reciprocity-psychology-skill` - Gift obligations, unequal exchange
+- `authority-positioning-skill` - Expert credibility, status signals
+- `liking-similarity-skill` - Rapport, mirroring, affinity
+
+### Next Layer (Social Pressure - Load 3-5):
+- `social-proof-mastery-skill` - Testimonials, herd behavior, FOMO
+- `tribal-marketing-skill` - In-group pressure, identity
+- `influence-weapons-skill` - Cialdini's 6 principles
+- `compliance-techniques-skill` - Foot-in-door, door-in-face
+- `cognitive-biases-skill` - 100+ biases for marketing
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 2 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

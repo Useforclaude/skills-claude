@@ -1,6 +1,6 @@
 ---
 name: landing-page-conversion-skill
-description: Master high-converting landing page design (10-20%+ conversion). Use for: layout optimization, headline formulas, CTA placement, trust elements, social proof integration, A/B testing, and conversion rate optimization.
+description: Master high-converting landing page design (10-20%+ conversion). Use for: layout optimization, headline formulas, CTA placement, trust elements, social proof integration, A/B testing, and conversion rate optimization. Also use for Thai keywords "landing page", "หน้าแลนดิ้ง", "แลนดิ้งเพจ", "เพจขาย", "หน้าขาย", "conversion", "แปลงยอดขาย", "ปิดการขาย", "หัวข้อ", "headline", "CTA", "ปุ่มกดซื้อ", "trust element", "social proof", "หลักฐานทางสังคม", "A/B testing", "ปรับหน้าขาย", "เพิ่ม conversion", "หน้าขายปัง".
 ---
 
 # Landing Page Conversion Optimization Expert Skill
@@ -1734,3 +1734,26 @@ Test everything. Trust data over opinions. Never stop optimizing.
 ---
 
 *This skill provides the frameworks and principles. Execution and testing determine results. Start with the basics, measure everything, and iterate based on data.*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 6: Execution of THE ULTIMATE STACK system.**
+
+### Same Layer (Execution - Load All 4):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `nlp-copywriting-skill` - Meta-model, Milton model, reframing
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 6 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

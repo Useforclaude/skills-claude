@@ -1,6 +1,6 @@
 ---
 name: security-best-practices-skill
-description: Master application security and secure coding practices. Use for: OWASP Top 10 vulnerabilities, authentication/authorization, input validation, SQL injection prevention, XSS protection, CSRF tokens, secure password handling, API security, encryption, security headers, penetration testing, and building secure, hack-resistant applications.
+description: Master application security and secure coding practices. Use for: OWASP Top 10 vulnerabilities, authentication/authorization, input validation, SQL injection prevention, XSS protection, CSRF tokens, secure password handling, API security, encryption, security headers, penetration testing, and building secure, hack-resistant applications.. Also use for Thai keywords "เขียนโค้ด", "โปรแกรม", "พัฒนา", "coding", "programming", "สถาปัตยกรรม", "โครงสร้าง", "ออกแบบระบบ", "architecture"
 ---
 
 # 🔒 Security Best Practices Skill

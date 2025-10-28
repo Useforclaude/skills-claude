@@ -1,6 +1,6 @@
 ---
 name: cognitive-biases-skill
-description: Master 100+ cognitive biases for marketing and persuasion. Use for: confirmation bias, availability heuristic, anchoring bias, social proof bias, scarcity bias, framing effects, and ethical bias application in marketing.
+description: Master 100+ cognitive biases for marketing and persuasion. Use for: confirmation bias, availability heuristic, anchoring bias, social proof bias, scarcity bias, framing effects, and ethical bias application in marketing. Also use for Thai keywords "อคติทางความคิด", "cognitive bias", "ความเอนเอียง", "อคติ", "confirmation bias", "หลักฐานทางสังคม", "social proof", "คนอื่นใช้", "ขาดแคลน", "scarcity", "เหลือน้อย", "กลัวพลาด", "FOMO", "anchoring", "ตั้งจุดยึด", "framing effect", "กรอบความคิด", "ตามกระแส", "จิตวิทยาการตลาด", "โน้มน้าวใจ".
 ---
 
 # Cognitive Biases Expert Skill
@@ -3019,3 +3019,38 @@ Cognitive biases are powerful tools that can be used ethically to help people ma
 **For consumers**: Awareness is the first defense. Systematic decision-making overcomes biases.
 
 **Remember**: The most persuasive marketing is a genuinely great product that improves lives. Biases should enhance, not replace, real value.
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 3: Social Pressure of THE ULTIMATE STACK system.**
+
+### Same Layer (Social Pressure - Load All 5):
+- `social-proof-mastery-skill` - Testimonials, herd behavior, FOMO
+- `tribal-marketing-skill` - In-group pressure, identity
+- `influence-weapons-skill` - Cialdini's 6 principles
+- `compliance-techniques-skill` - Foot-in-door, door-in-face
+
+### Next Layer (Commitment Traps - Load 3-5):
+- `commitment-consistency-skill` - Foot-in-door, public pledges
+- `behavioral-economics-skill` - Loss aversion, sunk cost
+- `persuasion-psychology-skill` - Sequential requests, pre-suasion
+- `hypnotic-writing-skill` - Yes ladders, embedded commands
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 3 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

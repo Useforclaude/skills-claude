@@ -1,6 +1,6 @@
 ---
 name: javascript-modern-skill
-description: Master modern JavaScript (ES6+) features and best practices. Use for: arrow functions, destructuring, spread/rest, async/await, promises, modules, classes, template literals, optional chaining, nullish coalescing, and writing clean modern JavaScript code.
+description: Master modern JavaScript (ES6+) features and best practices. Use for: arrow functions, destructuring, spread/rest, async/await, promises, modules, classes, template literals, optional chaining, nullish coalescing, and writing clean modern JavaScript code. Also use for Thai keywords "JavaScript", "JS", "ES6", "arrow function", "destructuring", "spread", "rest", "async await", "promise", "module", "class", "template literal", "optional chaining", "nullish coalescing", "เขียน JavaScript ทันสมัย", "เขียน JS ทันสมัย", "JavaScript มาตรฐาน", "JS สมัยใหม่".
 ---
 
 # 🚀 Modern JavaScript (ES6+) Skill

@@ -1,6 +1,6 @@
 ---
 name: consumer-psychology-skill
-description: Master consumer psychology and buying behavior. Use for: decision-making psychology, buying triggers, customer motivations, brand loyalty, consumer research, persona development, and applying psychological principles to marketing.
+description: Master consumer psychology and buying behavior. Use for: decision-making psychology, buying triggers, customer motivations, brand loyalty, consumer research, persona development, and applying psychological principles to marketing. Also use for Thai keywords "จิตวิทยาผู้บริโภค", "จิตวิทยาลูกค้า", "พฤติกรรมลูกค้า", "ลูกค้าคิดอะไร", "ทำไมลูกค้าซื้อ", "กระตุ้นการซื้อ", "แรงจูงใจ", "ปัญหาลูกค้า", "pain point", "จุดเจ็บ", "ความต้องการ", "การตัดสินใจซื้อ", "ลูกค้าภักดี", "brand loyalty", "วิเคราะห์ลูกค้า", "customer persona", "buyer persona", "เข้าใจลูกค้า".
 ---
 
 # Consumer Psychology Skill - Expert Level

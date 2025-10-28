@@ -1,6 +1,6 @@
 ---
 name: story-selling-skill
-description: Master story-driven selling using Russell Brunson's Epiphany Bridge. Use for: origin stories, discovery stories, transformation stories, case study narratives, testimonial stories, webinar storytelling, and converting skeptics through narrative.
+description: Master story-driven selling using Russell Brunson's Epiphany Bridge. Use for: origin stories, discovery stories, transformation stories, case study narratives, testimonial stories, webinar storytelling, and converting skeptics through narrative.. Also use for Thai keywords "เรื่องราว", "เล่าเรื่อง", "storytelling", "การเล่าเรื่อง", "ขาย", "การขาย", "นักขาย", "ปิดการขาย", "ปิดดีล", "เซลส์", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล"
 ---
 
 # Story-Selling Skill: Using Stories to SELL

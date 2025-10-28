@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy-skill
-description: Master pricing strategy frameworks and methodologies. Use for: cost-plus pricing, value-based pricing, competitive pricing, penetration pricing (enter market low), skimming pricing (start high), dynamic pricing, freemium models, tiered pricing, bundle pricing, psychological pricing integration, pricing research, willingness-to-pay analysis, and strategic pricing decisions that maximize revenue and market share.
+description: Master pricing strategy frameworks and methodologies. Use for: cost-plus pricing, value-based pricing, competitive pricing, penetration pricing (enter market low), skimming pricing (start high), dynamic pricing, freemium models, tiered pricing, bundle pricing, psychological pricing integration, pricing research, willingness-to-pay analysis, and strategic pricing decisions that maximize revenue and market share.. Also use for Thai keywords "ราคา", "กำหนดราคา", "pricing", "ยุทธศาสตร์ราคา", "ตั้งราคา", "กลยุทธ์ราคา", "จิตวิทยาราคา", "ราคาที่เหมาะสม"
 ---
 
 # 💰 Pricing Strategy Mastery Skill

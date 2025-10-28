@@ -1,6 +1,6 @@
 ---
 name: personal-branding-skill
-description: Build authentic personal brands and thought leadership. Use for: personal brand strategy, authority building, content strategy, platform development, LinkedIn/Twitter optimization, thought leadership, networking strategies, and monetizing personal brands.
+description: Build authentic personal brands and thought leadership. Use for: personal brand strategy, authority building, content strategy, platform development, LinkedIn/Twitter optimization, thought leadership, networking strategies, and monetizing personal brands.. Also use for Thai keywords "แบรนด์", "ตราสินค้า", "brand", "สร้างแบรนด์", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล", "โซเชียลมีเดีย", "สื่อสังคมออนไลน์", "โพสต์", "คอนเทนต์โซเชียล"
 ---
 
 # Personal Branding Skill

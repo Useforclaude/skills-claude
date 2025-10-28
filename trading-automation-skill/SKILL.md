@@ -1,6 +1,6 @@
 ---
 name: trading-automation-skill
-description: Master automated trading systems and EA development for all platforms. Use for MetaTrader EA (MQL4/MQL5 Expert Advisors), TradingView Pine Script strategies, Python trading bots (Backtrader, CCXT, TA-Lib), cTrader cAlgo (C#), backtesting frameworks, strategy optimization, position sizing algorithms, order management systems, VPS deployment, multi-platform automation, error handling, monitoring dashboards, and production-ready trading robots for Forex, Crypto, and Stocks markets.
+description: Master automated trading systems and EA development for all platforms. Use for MetaTrader EA (MQL4/MQL5 Expert Advisors), TradingView Pine Script strategies, Python trading bots (Backtrader, CCXT, TA-Lib), cTrader cAlgo (C#), backtesting frameworks, strategy optimization, position sizing algorithms, order management systems, VPS deployment, multi-platform automation, error handling, monitoring dashboards, and production-ready trading robots for Forex, Crypto, and Stocks markets.. Also use for Thai keywords "เทรด", "ซื้อขาย", "การเทรด", "trading", "อัตโนมัติ", "ทำให้อัตโนมัติ", "automation", "ลดขั้นตอน", "เขียนโค้ด", "โปรแกรม", "พัฒนา", "coding", "programming"
 ---
 
 # 🤖 Trading Automation Mastery Skill

@@ -1,6 +1,6 @@
 ---
 name: odoo-development-skill
-description: Master Odoo ERP development and customization. Use for Odoo module development, Python ORM (models.Model, fields, inheritance), XML views (tree, form, kanban, search), controllers (HTTP routes, JSON RPC), security (ir.model.access, record rules), workflows, automation (automated actions, server actions), integration (XML-RPC, REST APIs, webhooks), report generation (QWeb, PDF), website development (website builder, eCommerce), best practices, debugging, and production deployment. Covers Odoo 14-17.
+description: Master Odoo ERP development and customization. Use for Odoo module development, Python ORM (models.Model, fields, inheritance), XML views (tree, form, kanban, search), controllers (HTTP routes, JSON RPC), security (ir.model.access, record rules), workflows, automation (automated actions, server actions), integration (XML-RPC, REST APIs, webhooks), report generation (QWeb, PDF), website development (website builder, eCommerce), best practices, debugging, and production deployment. Covers Odoo 14-17.. Also use for Thai keywords "Odoo", "โอดู", "ระบบ ERP", "ERP", "ระบบองค์กร", "ระบบบริหาร", "การจัดการองค์กร", "เขียนโค้ด", "โปรแกรม", "พัฒนา", "coding", "programming"
 ---
 
 # Odoo Development Mastery Skill

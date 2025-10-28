@@ -1,6 +1,6 @@
 ---
 name: mobile-ux-design-skill
-description: Master mobile UX design for iOS and Android. Use for mobile-first design strategy, touch target sizing (44×44pt minimum), gesture design (swipe, pinch, long-press), responsive breakpoints (320px, 375px, 414px), mobile navigation patterns (tab bar, bottom sheet, hamburger menu), thumb zones (reachable areas), mobile forms (auto-complete, input types), performance optimization (image compression, lazy loading), platform guidelines (iOS Human Interface Guidelines, Material Design), mobile typography (16px minimum), mobile accessibility, adaptive layouts, safe areas, status bars, and production-ready mobile app design.
+description: Master mobile UX design for iOS and Android. Use for mobile-first design strategy, touch target sizing (44×44pt minimum), gesture design (swipe, pinch, long-press), responsive breakpoints (320px, 375px, 414px), mobile navigation patterns (tab bar, bottom sheet, hamburger menu), thumb zones (reachable areas), mobile forms (auto-complete, input types), performance optimization (image compression, lazy loading), platform guidelines (iOS Human Interface Guidelines, Material Design), mobile typography (16px minimum), mobile accessibility, adaptive layouts, safe areas, status bars, and production-ready mobile app design.. Also use for Thai keywords "มือถือ", "โทรศัพท์", "mobile", "แอปมือถือ", "UX", "ประสบการณ์ผู้ใช้", "การใช้งาน", "ใช้งานง่าย", "ออกแบบ", "ดีไซน์", "การออกแบบ", "design"
 ---
 
 # Mobile UX Design Mastery Skill

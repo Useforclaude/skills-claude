@@ -1,6 +1,6 @@
 ---
 name: authority-positioning-skill
-description: Master authority psychology for automatic compliance and trust. Use for: expert status building, credential strategies, media authority, third-party validation, authority symbols, thought leadership, authority transfer techniques, and crisis management.
+description: Master authority psychology for automatic compliance and trust. Use for: expert status building, credential strategies, media authority, third-party validation, authority symbols, thought leadership, authority transfer techniques, and crisis management. Also use for Thai keywords "สร้างความน่าเชื่อถือ", "สร้างอำนาจ", "ผู้เชี่ยวชาญ", "ความเป็นผู้นำ", "สร้างภาพลักษณ์ผู้เชี่ยวชาญ", "คนเชื่อถือ", "มีอำนาจ", "thought leader", "ผู้นำทางความคิด", "สื่อออก", "สัมภาษณ์สื่อ", "เซเลบ", "คนดัง", "influencer", "ยืนยันจากบุคคลที่สาม", "ผู้เชี่ยวชาญด้าน", "ครูบาอาจารย์".
 ---
 
 # Authority Positioning Skill
@@ -1698,3 +1698,41 @@ When you're truly the expert, you don't need to say it - others will.
 ---
 
 *End of Authority Positioning Skill*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 2: Emotional Override of THE ULTIMATE STACK system.**
+
+### Same Layer (Emotional Override - Load All 7):
+- `emotional-triggers-skill` - Fear, hope, anger amplification
+- `emotional-storytelling-skill` - Plutchik's 8 emotions, vulnerability
+- `narrative-psychology-skill` - Story schemas, transportation
+- `scarcity-urgency-skill` - Time compression, temporal distortion
+- `reciprocity-psychology-skill` - Gift obligations, unequal exchange
+- `liking-similarity-skill` - Rapport, mirroring, affinity
+
+### Next Layer (Social Pressure - Load 3-5):
+- `social-proof-mastery-skill` - Testimonials, herd behavior, FOMO
+- `tribal-marketing-skill` - In-group pressure, identity
+- `influence-weapons-skill` - Cialdini's 6 principles
+- `compliance-techniques-skill` - Foot-in-door, door-in-face
+- `cognitive-biases-skill` - 100+ biases for marketing
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 2 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

@@ -1,6 +1,6 @@
 ---
 name: story-branding-skill
-description: Master brand storytelling using narrative frameworks and archetypes. Use for: StoryBrand framework, brand archetypes, founder stories, brand narrative architecture, transformation promises, story-driven differentiation, and positioning through narrative.
+description: Master brand storytelling using narrative frameworks and archetypes. Use for: StoryBrand framework, brand archetypes, founder stories, brand narrative architecture, transformation promises, story-driven differentiation, and positioning through narrative.. Also use for Thai keywords "เรื่องราว", "เล่าเรื่อง", "storytelling", "การเล่าเรื่อง", "แบรนด์", "ตราสินค้า", "brand", "สร้างแบรนด์", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล"
 ---
 
 # Story Branding Skill

@@ -1,6 +1,6 @@
 ---
 name: social-media-mastery-skill
-description: Master social media strategy across all platforms (TikTok, Instagram, YouTube, Twitter/X, LinkedIn, Facebook). Use for: content strategy, algorithm optimization, engagement tactics, community building, analytics, influencer collaboration, paid social, crisis management, and platform-specific best practices for organic growth.
+description: Master social media strategy across all platforms (TikTok, Instagram, YouTube, Twitter/X, LinkedIn, Facebook). Use for: content strategy, algorithm optimization, engagement tactics, community building, analytics, influencer collaboration, paid social, crisis management, and platform-specific best practices for organic growth.. Also use for Thai keywords "โซเชียลมีเดีย", "สื่อสังคมออนไลน์", "โพสต์", "คอนเทนต์โซเชียล", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content"
 ---
 
 # 📱 Social Media Mastery Skill

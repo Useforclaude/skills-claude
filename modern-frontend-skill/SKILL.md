@@ -1,6 +1,6 @@
 ---
 name: modern-frontend-skill
-description: Master modern frontend development with React, Vue, Next.js, and best practices. Use for: component architecture, state management (Redux, Zustand, Pinia), hooks, routing, SSR/SSG, performance optimization, webpack/vite configuration, CSS-in-JS, TypeScript integration, testing (Jest, Vitest), and building production-ready modern web applications.
+description: Master modern frontend development with React, Vue, Next.js, and best practices. Use for: component architecture, state management (Redux, Zustand, Pinia), hooks, routing, SSR/SSG, performance optimization, webpack/vite configuration, CSS-in-JS, TypeScript integration, testing (Jest, Vitest), and building production-ready modern web applications.. Also use for Thai keywords "เขียนโค้ด", "โปรแกรม", "พัฒนา", "coding", "programming", "JavaScript", "จาวาสคริปต์", "JS", "เขียน JS", "ออกแบบ", "ดีไซน์", "การออกแบบ", "design"
 ---
 
 # ⚛️ Modern Frontend Development Skill

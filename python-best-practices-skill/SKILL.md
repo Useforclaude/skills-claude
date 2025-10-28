@@ -1,6 +1,6 @@
 ---
 name: python-best-practices-skill
-description: Master Python best practices and idioms. Use for: PEP 8 style guide, Pythonic code patterns, list comprehensions, generators, context managers, decorators, type hints, virtual environments, package management, and writing clean professional Python code.
+description: Master Python best practices and idioms. Use for: PEP 8 style guide, Pythonic code patterns, list comprehensions, generators, context managers, decorators, type hints, virtual environments, package management, and writing clean professional Python code.. Also use for Thai keywords "Python", "ไพธอน", "เขียน Python", "โปรแกรม Python", "เขียนโค้ด", "โปรแกรม", "พัฒนา", "coding", "programming"
 ---
 
 # 🐍 Python Best Practices Skill

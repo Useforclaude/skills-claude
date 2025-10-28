@@ -1,6 +1,6 @@
 ---
 name: ffmpeg-video-processing-skill
-description: Expert FFmpeg for production video/audio processing. Use for video/audio merging, codec conversion, subtitle burning, audio sync, stream mapping, quality optimization, format conversion, and production-ready video processing workflows.
+description: Expert FFmpeg for production video/audio processing. Use for video/audio merging, codec conversion, subtitle burning, audio sync, stream mapping, quality optimization, format conversion, and production-ready video processing workflows. Also use for Thai keywords "FFmpeg", "ตัดต่อวิดีโอ", "แปลงวิดีโอ", "รวมวิดีโอ", "concat video", "เปลี่ยนเสียง", "แทนเสียง", "replace audio", "ซับไตเติ้ล", "subtitle", "ประมวลผลวิดีโอ", "ต่อวิดีโอ", "ซิงค์เสียง", "audio sync", "แปลงไฟล์วิดีโอ", "codec", "คุณภาพวิดีโอ", "video processing", "command line video".
 ---
 
 # FFmpeg Expert Skill

@@ -1,6 +1,6 @@
 ---
 name: document-conversion-skill
-description: Master document conversion between formats (PDF, DOCX, HTML, Markdown, EPUB). Use for: markdown to PDF with Thai fonts, HTML to PDF with WeasyPrint, DOCX conversion with Pandoc, encoding handling (UTF-8 BOM), font embedding, CSS styling for documents, batch conversion workflows, and production-quality document generation.
+description: Master document conversion between formats (PDF, DOCX, HTML, Markdown, EPUB). Use for: markdown to PDF with Thai fonts, HTML to PDF with WeasyPrint, DOCX conversion with Pandoc, encoding handling (UTF-8 BOM), font embedding, CSS styling for documents, batch conversion workflows, and production-quality document generation. Also use for Thai keywords "แปลงเอกสาร", "แปลงไฟล์", "Markdown เป็น PDF", "HTML เป็น PDF", "แปลง PDF", "แปลง DOCX", "ฟอนต์ไทย", "ภาษาไทยใน PDF", "WeasyPrint", "Pandoc", "UTF-8", "ฝังฟอนต์", "CSS สำหรับเอกสาร", "แปลงหลายไฟล์", "batch conversion", "สร้างเอกสารคุณภาพสูง", "ส่งออก PDF".
 ---
 
 # 📄 Document Conversion Skill

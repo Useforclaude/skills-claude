@@ -1,6 +1,6 @@
 ---
 name: dark-psychology-skill
-description: Understand manipulation techniques for DEFENSE and EDUCATION only. Use for: detecting manipulation, protecting against coercion, recognizing dark patterns, understanding toxic tactics, and building ethical influence with strong ethical frameworks.
+description: Understand manipulation techniques for DEFENSE and EDUCATION only. Use for: detecting manipulation, protecting against coercion, recognizing dark patterns, understanding toxic tactics, and building ethical influence with strong ethical frameworks. Also use for Thai keywords "จิตวิทยาสีมืด", "dark psychology", "ป้องกันการหลอกลวง", "เทคนิคจิตวิทยา", "manipulation", "หลอกลวง", "ควบคุมจิตใจ", "dark pattern", "กลลวง", "รู้ทัน", "ป้องกันตัว", "เห็นกลลวง", "โดนหลอก", "ระวังกลลวง", "toxic", "คนพิษ", "จิตวิทยาแบบจารีต", "ป้องกันจิตวิทยา", "เข้าใจกลลวง".
 ---
 
 # Dark Psychology Skill - Expert Level

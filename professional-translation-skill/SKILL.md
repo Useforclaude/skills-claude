@@ -1,6 +1,6 @@
 ---
 name: professional-translation-skill
-description: Master professional translation across Thai-English-Chinese language pairs. Use for: document translation, book translation, article translation, conversation translation, copywriting translation, script translation, subtitle translation, transcription translation, meeting minutes, localization, cultural adaptation, tone preservation, technical translation, creative translation, and multilingual content creation.
+description: Master professional translation across Thai-English-Chinese language pairs. Use for: document translation, book translation, article translation, conversation translation, copywriting translation, script translation, subtitle translation, transcription translation, meeting minutes, localization, cultural adaptation, tone preservation, technical translation, creative translation, and multilingual content creation.. Also use for Thai keywords "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา"
 ---
 
 # Professional Translation Skill

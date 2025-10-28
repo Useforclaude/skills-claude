@@ -1,6 +1,6 @@
 ---
 name: tts-synthesis-skill
-description: Expert Text-to-Speech synthesis for production voice generation (Edge-TTS, AWS Polly, ElevenLabs, Google Cloud TTS). Use for multi-platform TTS, SSML markup, prosody control, voice cloning, timeline-accurate audio synthesis, batch processing, and cost optimization.
+description: Expert Text-to-Speech synthesis for production voice generation (Edge-TTS, AWS Polly, ElevenLabs, Google Cloud TTS). Use for multi-platform TTS, SSML markup, prosody control, voice cloning, timeline-accurate audio synthesis, batch processing, and cost optimization.. Also use for Thai keywords "วิดีโอ", "คลิป", "ภาพเคลื่อนไหว", "วีดีโอ", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "AI วิดีโอ", "สร้างวิดีโอ AI", "วิดีโอ AI", "AI สร้างวิดีโอ"
 ---
 
 # TTS Synthesis Expert Skill

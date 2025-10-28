@@ -1,6 +1,6 @@
 ---
 name: ux-research-skill
-description: Master UX research methods for data-driven design. Use for user research planning, research methods (interviews, surveys, usability testing, card sorting, tree testing, A/B testing), user personas (demographic/psychographic data, jobs-to-be-done), user journey mapping, empathy mapping, usability testing (moderated/unmoderated, remote/in-person), heuristic evaluation (Nielsen's 10 heuristics), analytics (Google Analytics, Mixpanel, Hotjar heatmaps), user testing recruitment, research synthesis (affinity mapping, themes), quantitative vs qualitative research, sample size calculation, research reporting, and actionable insights generation.
+description: Master UX research methods for data-driven design. Use for user research planning, research methods (interviews, surveys, usability testing, card sorting, tree testing, A/B testing), user personas (demographic/psychographic data, jobs-to-be-done), user journey mapping, empathy mapping, usability testing (moderated/unmoderated, remote/in-person), heuristic evaluation (Nielsen's 10 heuristics), analytics (Google Analytics, Mixpanel, Hotjar heatmaps), user testing recruitment, research synthesis (affinity mapping, themes), quantitative vs qualitative research, sample size calculation, research reporting, and actionable insights generation.. Also use for Thai keywords "UX", "ประสบการณ์ผู้ใช้", "การใช้งาน", "ใช้งานง่าย", "ออกแบบ", "ดีไซน์", "การออกแบบ", "design", "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด"
 ---
 
 # UX Research Mastery Skill

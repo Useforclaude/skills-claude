@@ -1,6 +1,6 @@
 ---
 name: cash-flow-engineering-skill
-description: Master cash flow engineering and working capital optimization. Use for: float management, advance payment models, deposit systems (refundable/non-refundable), prepayment structures, cash conversion cycle, working capital optimization, payment terms negotiation, deferred revenue strategies, membership prepayments, negative working capital models, and turning cash flow into competitive advantage.
+description: Master cash flow engineering and working capital optimization. Use for: float management, advance payment models, deposit systems (refundable/non-refundable), prepayment structures, cash conversion cycle, working capital optimization, payment terms negotiation, deferred revenue strategies, membership prepayments, negative working capital models, and turning cash flow into competitive advantage. Also use for Thai keywords "จัดการกระแสเงินสด", "กระแสเงินสด", "cash flow", "เงินทุนหมุนเวียน", "working capital", "รับเงินล่วงหน้า", "มัดจำ", "ระบบมัดจำ", "เก็บเงินก่อน", "ชำระล่วงหน้า", "ลดค่าใช้จ่าย", "เพิ่มกระแสเงินสด", "cash conversion cycle", "ต่อรองเงื่อนไขการชำระ", "เพิ่มสภาพคล่อง", "จ่ายช้ารับเร็ว", "negative working capital".
 ---
 
 # Cash Flow Engineering Mastery

@@ -1,6 +1,6 @@
 ---
 name: content-marketing-skill
-description: Master content marketing strategy for brand growth and lead generation. Use for: content strategy development, editorial calendars, SEO content creation, content distribution, storytelling frameworks, audience research, content repurposing, metrics tracking, thought leadership, and building content engines that drive organic traffic and conversions.
+description: Master content marketing strategy for brand growth and lead generation. Use for: content strategy development, editorial calendars, SEO content creation, content distribution, storytelling frameworks, audience research, content repurposing, metrics tracking, thought leadership, and building content engines that drive organic traffic and conversions. Also use for Thai keywords "การตลาดเนื้อหา", "content marketing", "กลยุทธ์เนื้อหา", "สร้างคอนเทนต์", "แผนเนื้อหา", "ปฏิทินเนื้อหา", "editorial calendar", "โพสต์อะไร", "เขียน SEO", "กระจายเนื้อหา", "เล่าเรื่อง", "storytelling", "วิเคราะห์ผู้ชม", "ใช้ซ้ำ", "repurpose", "วัดผล", "traffic", "conversion", "thought leader".
 ---
 
 # 📝 Content Marketing Mastery Skill

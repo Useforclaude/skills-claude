@@ -1,6 +1,6 @@
 ---
 name: commitment-consistency-skill
-description: Master commitment psychology and cognitive dissonance for customer retention. Use for: Foot-in-the-Door tactics, progressive commitment ladders, public commitments, written commitments, identity-based consistency, onboarding sequences, and measuring commitment depth.
+description: Master commitment psychology and cognitive dissonance for customer retention. Use for: Foot-in-the-Door tactics, progressive commitment ladders, public commitments, written commitments, identity-based consistency, onboarding sequences, and measuring commitment depth. Also use for Thai keywords "ความมุ่งมั่น", "ความสม่ำเสมอ", "commitment", "consistency", "Foot-in-the-Door", "เริ่มจากเล็ก", "สัญญาสาธารณะ", "ประกาศต่อหน้าคน", "เขียนคำมั่น", "รักษาลูกค้า", "ลูกค้าติด", "บันไดความมุ่งมั่น", "cognitive dissonance", "ความขัดแย้งทางความคิด", "ตัวตนสอดคล้อง", "onboarding", "แนะนำสมาชิกใหม่".
 ---
 
 # Commitment & Consistency Skill
@@ -981,3 +981,38 @@ Commitment to their goals (not your agenda)
 ---
 
 *End of Commitment & Consistency Skill*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 4: Commitment Traps of THE ULTIMATE STACK system.**
+
+### Same Layer (Commitment Traps - Load All 4):
+- `behavioral-economics-skill` - Loss aversion, sunk cost
+- `persuasion-psychology-skill` - Sequential requests, pre-suasion
+- `hypnotic-writing-skill` - Yes ladders, embedded commands
+
+### Next Layer (Value Amplification - Load 3-5):
+- `value-stacking-skill` - Bonus stacking, price anchoring
+- `irresistible-offers-skill` - Risk reversal, guarantees
+- `pricing-psychology-skill` - Charm pricing, decoy effects
+- `objection-crushing-skill` - Preemptive objection handling
+- `invisible-selling-skill` - Education-based, value-first
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 4 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

@@ -1,6 +1,6 @@
 ---
 name: seo-content-skill
-description: Master SEO content writing for top Google rankings. Use for: keyword research, on-page optimization, content structure, meta tags, internal linking, featured snippets, Core Web Vitals, E-E-A-T principles, topic clusters, semantic SEO, and creating content that ranks while serving user intent.
+description: Master SEO content writing for top Google rankings. Use for: keyword research, on-page optimization, content structure, meta tags, internal linking, featured snippets, Core Web Vitals, E-E-A-T principles, topic clusters, semantic SEO, and creating content that ranks while serving user intent.. Also use for Thai keywords "SEO", "การตลาดเว็บ", "ติดอันดับ Google", "เพิ่มการมองเห็น", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล"
 ---
 
 # 🔍 SEO Content Writing Skill

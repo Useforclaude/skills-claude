@@ -1,6 +1,6 @@
 ---
 name: animation-microinteractions-skill
-description: Master UI animations and microinteractions for delightful user experiences. Use for: CSS animations, transition timing functions, keyframes, scroll animations, hover effects, loading states, skeleton screens, spring physics, Framer Motion, GSAP, performance optimization (will-change, transform), and creating smooth, polished, engaging interfaces that feel alive.
+description: Master UI animations and microinteractions for delightful user experiences. Use for: CSS animations, transition timing functions, keyframes, scroll animations, hover effects, loading states, skeleton screens, spring physics, Framer Motion, GSAP, performance optimization (will-change, transform), and creating smooth, polished, engaging interfaces that feel alive. Also use for Thai keywords "แอนิเมชั่น UI", "เคลื่อนไหวเว็บ", "hover สวย", "scroll animation", "loading สวย", "ปุ่มเคลื่อนไหว", "เว็บมีชีวิต", "UI ลื่นไหล", "เคลื่อนไหวนุ่มนวล", "Framer Motion", "GSAP", "CSS animation", "transition", "skeleton screen", "microinteraction", "เว็บสวย", "UX ดี", "ใช้งานสนุก".
 ---
 
 # ✨ Animation & Microinteractions Skill

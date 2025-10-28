@@ -1,6 +1,6 @@
 ---
 name: facebook-ads-mastery-skill
-description: Master Facebook Ads campaigns for maximum ROI and precise targeting. Use for: campaign strategy, interest targeting, audience segmentation, lookalike audiences, persona development, ad creative, placement optimization, budget allocation, metrics analysis (CTR, CPC, CPM, ROAS, CPA), A/B testing, conversion tracking, pixel implementation, and scaling profitable campaigns.
+description: Master Facebook Ads campaigns for maximum ROI and precise targeting. Use for: campaign strategy, interest targeting, audience segmentation, lookalike audiences, persona development, ad creative, placement optimization, budget allocation, metrics analysis (CTR, CPC, CPM, ROAS, CPA), A/B testing, conversion tracking, pixel implementation, and scaling profitable campaigns. Also use for Thai keywords "โฆษณาเฟซบุ๊ก", "โฆษณาเฟส", "Facebook Ads", "FB Ads", "ลงแอด", "ลงโฆษณา", "กลุ่มเป้าหมาย", "interest targeting", "lookalike audience", "Pixel", "ROAS", "CPA", "ต้นทุนต่อลูกค้า", "A/B testing", "ทดสอบโฆษณา", "วัดผลโฆษณา", "สเกลแอด", "เพิ่มยอดขาย", "conversion tracking", "ยอดขายจากแอด".
 ---
 
 # Facebook Ads Mastery Skill

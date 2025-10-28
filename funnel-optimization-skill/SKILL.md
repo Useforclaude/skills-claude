@@ -1,6 +1,6 @@
 ---
 name: funnel-optimization-skill
-description: Master conversion funnel optimization and CRO (Conversion Rate Optimization). Use for: funnel analysis, bottleneck identification, A/B testing, landing page optimization, checkout flow, abandoned cart recovery, form optimization, CTA optimization, heat mapping, user session recording, and increasing conversion rates at every funnel stage.
+description: Master conversion funnel optimization and CRO (Conversion Rate Optimization). Use for: funnel analysis, bottleneck identification, A/B testing, landing page optimization, checkout flow, abandoned cart recovery, form optimization, CTA optimization, heat mapping, user session recording, and increasing conversion rates at every funnel stage. Also use for Thai keywords "ช่องทางการขาย", "funnel", "กระบวนการขาย", "เพิ่ม conversion", "CRO", "Conversion Rate Optimization", "วิเคราะห์ funnel", "คอขวด", "bottleneck", "A/B testing", "ปรับปรุง landing page", "checkout", "ตะกร้าทิ้ง", "abandoned cart", "ฟอร์ม", "ปุ่ม CTA", "heat map", "แผนที่ความร้อน", "บันทึกหน้าจอผู้ใช้".
 ---
 
 # 🔄 Funnel Optimization Skill

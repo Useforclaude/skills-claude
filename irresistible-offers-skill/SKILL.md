@@ -1,6 +1,6 @@
 ---
 name: irresistible-offers-skill
-description: Create offers so good people feel stupid saying no (Alex Hormozi). Use for: Value Equation, Grand Slam Offer framework, stack building, risk reversal, guarantee strategies, and offer optimization.
+description: Create offers so good people feel stupid saying no (Alex Hormozi). Use for: Value Equation, Grand Slam Offer framework, stack building, risk reversal, guarantee strategies, and offer optimization. Also use for Thai keywords "ข้อเสนอสุดปัง", "irresistible offer", "Alex Hormozi", "Grand Slam Offer", "Value Equation", "สมการคุณค่า", "stack", "รวมของแถม", "risk reversal", "กลับความเสี่ยง", "guarantee", "รับประกัน", "ข้อเสนอที่ปฏิเสธไม่ได้", "คุ้มสุดๆ", "คุ้มมาก", "ไม่ซื้อโง่", "ปฏิเสธแล้วพลาด", "ข้อเสนอดีมาก".
 ---
 
 # Irresistible Offers Skill
@@ -2587,3 +2587,38 @@ By increasing your value so dramatically that price becomes irrelevant.
 ---
 
 *Remember: An irresistible offer isn't about manipulation or trickery. It's about genuinely creating so much value that buying is the obvious smart decision. When you do this right, you help people transform their lives while building a thriving business. That's the goal.*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 5: Value Amplification of THE ULTIMATE STACK system.**
+
+### Same Layer (Value Amplification - Load All 5):
+- `value-stacking-skill` - Bonus stacking, price anchoring
+- `pricing-psychology-skill` - Charm pricing, decoy effects
+- `objection-crushing-skill` - Preemptive objection handling
+- `invisible-selling-skill` - Education-based, value-first
+
+### Next Layer (Execution - Load 3-5):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+- `nlp-copywriting-skill` - Meta-model, Milton model, reframing
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 5 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

@@ -1,6 +1,6 @@
 ---
 name: neuromarketing-skill
-description: Master neuroscience-based marketing using brain research and fMRI studies. Use for: triune brain model, emotion vs logic pathways, visual attention patterns, decision neuroscience, sensory marketing, neuro-pricing, attention optimization, and brain-based conversion strategies.
+description: Master neuroscience-based marketing using brain research and fMRI studies. Use for: triune brain model, emotion vs logic pathways, visual attention patterns, decision neuroscience, sensory marketing, neuro-pricing, attention optimization, and brain-based conversion strategies.. Also use for Thai keywords "ประสาท", "สมอง", "เคมีสมอง", "ระบบประสาท", "neuromarketing", "การตลาด", "เขียนขาย", "ขายของ", "โฆษณา", "ปิดการขาย", "ปิดดีล", "การตลาดดิจิทัล", "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด"
 ---
 
 # Neuromarketing Expert Skill
@@ -810,3 +810,39 @@ When applying this skill:
 *Last Updated: 2025-01-23*
 *Skill Level: Expert*
 *Domain: Neuromarketing, Consumer Neuroscience, Behavioral Economics*
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 1: Brain Hijack of THE ULTIMATE STACK system.**
+
+### Same Layer (Brain Hijack - Load All 5):
+- `hormone-hijacking-skill` - Dopamine/cortisol/adrenaline control
+- `dopamine-engineering-skill` - Variable rewards, gamification
+- `subliminal-persuasion-skill` - Subconscious priming
+- `sensory-priming-mastery-skill` - Multi-sensory anchoring
+
+### Next Layer (Emotional Override - Load 3-5):
+- `emotional-triggers-skill` - Fear, hope, anger amplification
+- `emotional-storytelling-skill` - Plutchik's 8 emotions, vulnerability
+- `narrative-psychology-skill` - Story schemas, transportation
+- `scarcity-urgency-skill` - Time compression, temporal distortion
+- `reciprocity-psychology-skill` - Gift obligations, unequal exchange
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 1 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

@@ -1,6 +1,6 @@
 ---
 name: subconscious-triggers-skill
-description: Master subconscious influence and automatic behavior triggers (ETHICAL USE ONLY). Use for: priming effects, implicit associations, pattern recognition, Gestalt principles, color/sound psychology, automatic processing, and ethical persuasion architecture.
+description: Master subconscious influence and automatic behavior triggers (ETHICAL USE ONLY). Use for: priming effects, implicit associations, pattern recognition, Gestalt principles, color/sound psychology, automatic processing, and ethical persuasion architecture.. Also use for Thai keywords "จิตวิทยา", "พฤติกรรม", "จิตวิทยาผู้บริโภค", "จิตวิทยาการตลาด", "ประสาท", "สมอง", "เคมีสมอง", "ระบบประสาท", "neuromarketing", "โน้มน้าว", "ชักจูง", "ทำให้เชื่อ", "การโน้มน้าวใจ", "influence"
 ---
 
 # Subconscious Triggers Engineering Skill

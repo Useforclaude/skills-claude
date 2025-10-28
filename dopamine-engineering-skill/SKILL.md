@@ -1,6 +1,6 @@
 ---
 name: dopamine-engineering-skill
-description: Master reward systems and behavioral loops for engagement. Use for: gamification strategies, habit formation, variable reward schedules, progress mechanics, streak systems, and creating addictive (ethical) product experiences.
+description: Master reward systems and behavioral loops for engagement. Use for: gamification strategies, habit formation, variable reward schedules, progress mechanics, streak systems, and creating addictive (ethical) product experiences. Also use for Thai keywords "โดพามีน", "dopamine", "ระบบรางวัล", "reward system", "gamification", "เกมมิฟิเคชั่น", "สร้างนิสัย", "habit formation", "ตารางรางวัล", "variable reward", "แถบความคืบหน้า", "progress bar", "ระบบ streak", "ติดใจ", "ติดแอป", "อดใจไม่ได้", "เล่นติด", "engagement", "มีส่วนร่วม", "ผลิตภัณฑ์ติดใจ".
 ---
 
 # Dopamine Engineering Skill
@@ -2572,3 +2572,39 @@ If business metrics up but user health down → NOT SUSTAINABLE
 **Last Updated:** 2025-10-23
 
 **Remember:** With great power comes great responsibility. Use dopamine engineering to help people thrive, not just to capture their attention.
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 1: Brain Hijack of THE ULTIMATE STACK system.**
+
+### Same Layer (Brain Hijack - Load All 5):
+- `hormone-hijacking-skill` - Dopamine/cortisol/adrenaline control
+- `neuromarketing-skill` - fMRI insights, eye tracking
+- `subliminal-persuasion-skill` - Subconscious priming
+- `sensory-priming-mastery-skill` - Multi-sensory anchoring
+
+### Next Layer (Emotional Override - Load 3-5):
+- `emotional-triggers-skill` - Fear, hope, anger amplification
+- `emotional-storytelling-skill` - Plutchik's 8 emotions, vulnerability
+- `narrative-psychology-skill` - Story schemas, transportation
+- `scarcity-urgency-skill` - Time compression, temporal distortion
+- `reciprocity-psychology-skill` - Gift obligations, unequal exchange
+
+### Execution Layer (Load 2-3):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `copywriting-formulas-skill` - 100+ formulas, video hooks
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 1 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

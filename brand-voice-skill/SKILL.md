@@ -1,6 +1,6 @@
 ---
 name: brand-voice-skill
-description: Maintain consistent brand voice and tone across all content. Use when creating copywriting, marketing content, social media posts, emails, landing pages, and any brand communications.
+description: Maintain consistent brand voice and tone across all content. Use when creating copywriting, marketing content, social media posts, emails, landing pages, and any brand communications. Also use for Thai keywords "เสียงแบรนด์", "น้ำเสียงแบรนด์", "brand voice", "tone of voice", "ลีลาการพูด", "การสื่อสารแบรนด์", "เขียนแบบแบรนด์", "สไตล์แบรนด์", "บุคลิกการพูด", "พูดแบบแบรนด์", "คุยแบบแบรนด์", "การสื่อสาร", "เขียนให้สอดคล้อง", "น้ำเสียงเดียวกัน", "ลักษณะการพูด", "แบรนด์พูดแบบไหน".
 ---
 
 # Brand Voice Skill

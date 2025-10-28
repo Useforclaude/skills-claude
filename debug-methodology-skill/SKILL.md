@@ -1,6 +1,6 @@
 ---
 name: debug-methodology-skill
-description: Master systematic debugging using Codex methodology. Use for: trace execution flow, calculate expected values, validate assumptions, root cause analysis, bug reproduction, error diagnosis, performance debugging, and systematic problem-solving that finds real issues not just symptoms.
+description: Master systematic debugging using Codex methodology. Use for: trace execution flow, calculate expected values, validate assumptions, root cause analysis, bug reproduction, error diagnosis, performance debugging, and systematic problem-solving that finds real issues not just symptoms. Also use for Thai keywords "แก้บั๊ก", "debug", "หาบั๊ก", "แก้ไขข้อผิดพลาด", "ดีบั๊ก", "ติดตามโค้ด", "trace code", "คำนวณค่าที่คาดหวัง", "root cause", "สาเหตุหลัก", "ทำซ้ำบั๊ก", "bug reproduction", "วินิจฉัยข้อผิดพลาด", "แก้ปัญหาอย่างเป็นระบบ", "Codex methodology", "ไม่ทำงาน", "พัง", "เพี้ยน", "ผิดปกติ".
 ---
 
 # 🔬 Debug Methodology - Codex System

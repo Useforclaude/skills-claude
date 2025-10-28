@@ -1,6 +1,6 @@
 ---
 name: copywriting-formulas-skill
-description: Master 50+ proven copywriting formulas for high-converting copy. Use for: AIDA, PAS, FAB, 4Ps, Before-After-Bridge, headline formulas, CTA formulas, email formulas, and quick copywriting frameworks.
+description: Master 100+ proven copywriting formulas for high-converting copy. Use for: AIDA, PAS, FAB, 4Ps, Before-After-Bridge, headline formulas, CTA formulas, email formulas, video opening hooks (Pattern Interrupt, Shock and Awe, Curiosity Gap, Problem-Solution, The Clock, Humor), quick copywriting frameworks, YouTube hooks, TikTok hooks, video marketing, VSL, webinar openings. Also use for Thai keywords "เขียนขาย", "เขียนโฆษณา", "คำโฆษณา", "ข้อความขาย", "copy", "เขียน copy", "สูตร copy", "หัวข้อ", "พาดหัว", "เปิดวิดีโอ", "hook วิดีโอ", "เขียนหัวข้อ", "CTA", "ปุ่มกดซื้อ", "เรียกร้องให้ลงมือ", "สูตรการขาย", "copywriting", "การเขียนโฆษณา".
 ---
 
 # Copywriting Formulas Skill (Expert Level)
@@ -2146,6 +2146,503 @@ Comment ด้านล่าง
 
 ---
 
+## 🎬 Video Opening Hooks (12 Patterns)
+
+**Why Video Hooks Matter:**
+```
+93% of viewers decide within first 3 seconds whether to keep watching
+Video hooks = most critical part of your video
+→ Master these 12 patterns = 5-10X higher retention!
+```
+
+**Use Cases:**
+- YouTube videos (first 5-10 seconds)
+- TikTok/Reels/Shorts (first 1-3 seconds)
+- Facebook video ads (first 3 seconds before "Skip")
+- Video Sales Letters (VSL)
+- Webinar openings
+- Product demo videos
+
+---
+
+### 1. Pattern Interrupt (การทำลายความคาดหมาย)
+
+**What:** Break expectations, do something unexpected
+
+**Formula:**
+```
+[Unexpected action/statement] + [Wait, what?!] + [Now that I have your attention...]
+```
+
+**Example (Product: Trash Bags):**
+```
+"ถุงขยะของเราระเบิดแต่ไม่แตก!"
+[Show trash bag exploding but not tearing]
+"รับน้ำหนักได้ถึง 50 กก. โดยไม่ขาด"
+```
+
+**Thai Examples:**
+```
+❌ Boring: "ถุงขยะคุณภาพดี"
+✅ Pattern Interrupt: "ฉันจะทำลายถุงขยะด้วยค้อน...[BOOM!]...เอ? ยังไม่ขาด?!"
+
+❌ Boring: "คอร์สสอนการตลาด"
+✅ Pattern Interrupt: "ฉันจะลบโฆษณา Facebook ทั้งหมดของฉัน...[กดลบ]...และยอดขายพุ่งขึ้น 300%!"
+
+❌ Boring: "แอปบริหารเวลา"
+✅ Pattern Interrupt: "ฉันทำงานแค่ 4 ชั่วโมงต่อวัน...และทำเงินได้มากกว่าเดิม 2 เท่า"
+```
+
+**Why It Works:**
+- Brain notices "something different"
+- Curiosity spikes
+- Attention locked
+
+**Use When:**
+- Crowded market (need to stand out)
+- Boring product category
+- Targeting younger audience (Gen Z)
+
+---
+
+### 2. Shock and Awe (สร้างความตกตะลึง)
+
+**What:** Show something unbelievable, jaw-dropping
+
+**Formula:**
+```
+[Impossible claim] + [Visual proof] + [How we did it]
+```
+
+**Example (Product: Trash Bags):**
+```
+"ถุงขยะรับน้ำหนักรถยนต์ได้!"
+[Show car driving over trash bag - doesn't break]
+"ทดสอบจริง 2,000 กก. ไม่ขาด"
+```
+
+**Thai Examples:**
+```
+❌ Boring: "น้ำหนักเบา"
+✅ Shock: "กระเป๋านี้เบากว่าบัตรเครดิต!" [เทียบบนเครื่องชั่ง]
+
+❌ Boring: "ชาร์จเร็ว"
+✅ Shock: "ชาร์จ 0% ถึง 100% ในเวลา 30 วินาที?!" [Timelapse แสดงผลจริง]
+
+❌ Boring: "กันน้ำได้ดี"
+✅ Shock: "โยนลงแม่น้ำ 1 ชั่วโมง...แล้วยังใช้งานได้!" [ทดสอบจริง]
+```
+
+**Why It Works:**
+- Creates "I have to see this!" effect
+- Viral potential (people share unbelievable things)
+- Instant credibility (if you can prove it)
+
+**Use When:**
+- Product has extreme performance
+- Need social shares
+- Competitive advantage is dramatic
+
+---
+
+### 3. Curiosity Gap (สร้างช่องว่างความอยากรู้)
+
+**What:** Ask question but don't answer immediately
+
+**Formula:**
+```
+[Intriguing question] + [Hint at answer] + [But first...]
+```
+
+**Example (Product: Trash Bags):**
+```
+"คุณเคยเห็นถุงขยะที่ลอยน้ำได้ไหม?"
+[Show trash bag floating]
+"มันไม่ใช่มายากล...นี่คือเทคโนโลยี..."
+```
+
+**Thai Examples:**
+```
+❌ Boring: "วิธีเพิ่มยอดขาย"
+✅ Curiosity: "เพราะอะไร 93% ของธุรกิจถึงล้มเหลว...แต่ 7% ทำเงินได้หลักล้าน?" [ไม่บอกคำตอบทันที]
+
+❌ Boring: "ลดน้ำหนักง่าย"
+✅ Curiosity: "มี 1 อย่างที่คนผอมทุกคนทำทุกเช้า...คุณรู้หรือเปล่า?" [รอ 3 วินาที]
+
+❌ Boring: "การตลาดที่ดี"
+✅ Curiosity: "ทำไม Apple ไม่ลงโฆษณา Facebook เลย?" [Pause] "คำตอบจะทำให้คุณช็อก..."
+```
+
+**Why It Works:**
+- Brain hates unanswered questions
+- Creates "information gap"
+- Viewer must watch to close gap
+
+**Use When:**
+- Educational content
+- How-to videos
+- Thought leadership
+
+---
+
+### 4. Problem-Solution (ปัญหา-ทางแก้)
+
+**What:** Start with pain point, then reveal solution
+
+**Formula:**
+```
+[Relatable problem] + [Pain amplification] + [Solution appears]
+```
+
+**Example:**
+```
+"หมดเวลากับการเขียน copy?"
+[Show frustrated marketer, deadline pressure]
+"1,000 บาท per hour...10 ชั่วโมง...10,000 บาท ต่อหน้า Landing Page"
+[Show stressed face]
+"แต่ถ้ามี AI เขียนให้ใน 10 นาที?"
+[Show solution]
+```
+
+**Thai Examples:**
+```
+❌ Weak: "มี feature X"
+✅ Problem-Solution:
+"ทำงาน 12 ชม./วัน...แต่ยอดขายไม่เพิ่ม?" [Problem]
+"เพราะคุณทำงานหนัก...ไม่ใช่ทำงานฉลาด" [Amplify]
+"นี่คือ 3 เครื่องมือที่จะเปลี่ยนทุกอย่าง..." [Solution]
+
+❌ Weak: "ประหยัดเงิน"
+✅ Problem-Solution:
+"เดือนนี้หมดเงินอีกแล้ว?" [Problem - relatable]
+"เงินเดือน 50,000 แต่เหลือ 0 บาททุกสิ้นเดือน" [Amplify - pain]
+"เพราะคุณขาด...ระบบนี้!" [Solution tease]
+```
+
+**Why It Works:**
+- Empathy first (understand pain)
+- Solution feels inevitable
+- Viewer sees themselves in problem
+
+**Use When:**
+- Product solves clear pain
+- B2B sales (business problems)
+- High-consideration purchases
+
+---
+
+### 5. The Clock (นาฬิกานับถอยหลัง)
+
+**What:** Start with countdown/deadline
+
+**Formula:**
+```
+[Countdown timer] + [What happens when time runs out] + [Urgency message]
+```
+
+**Example:**
+```
+[Show countdown: 10...9...8...]
+"เหลือเวลาอีก 10 วินาที...ก่อนข้อเสนอพิเศษสิ้นสุด"
+[Timer hits 0]
+"ข้อเสนอนี้หมดแล้ว...แต่ถ้าคุณดูวิดีโอนี้ใน 5 นาที..."
+```
+
+**Thai Examples:**
+```
+❌ Weak: "โปรโมชั่นพิเศษ"
+✅ The Clock:
+[เปิดเลย: นาฬิกานับถอยหลัง 10...9...8...]
+"เหลือ 7 วินาที...ก่อน Flash Sale สิ้นสุด!"
+[มุมมองนาฬิกาเต็มจอ 5 วินาที]
+
+❌ Weak: "ลงทะเบียนเร็ว"
+✅ The Clock:
+"นับถอยหลัง: 03:27:45 (3 ชม. 27 นาที 45 วินาที)"
+"เมื่อหมดเวลา...ราคาจะเพิ่มเป็น 2 เท่า"
+[Timer animated, ticking down visibly]
+
+❌ Weak: "จำนวนจำกัด"
+✅ The Clock:
+[Stopwatch นับเร็วมาก]
+"30 วินาที...50 คนซื้อแล้ว"
+"1 นาที...120 คนซื้อแล้ว!"
+"คุณจะทันหรือเปล่า?"
+```
+
+**Why It Works:**
+- Time pressure = cortisol spike
+- Fear of missing out (FOMO)
+- Forces immediate decision
+
+**Use When:**
+- Flash sales
+- Limited-time offers
+- Event registrations
+- Product launches
+
+---
+
+### 6. Humor (อารมณ์ขัน)
+
+**What:** Start with joke/funny situation
+
+**Formula:**
+```
+[Relatable funny situation] + [Self-deprecating/unexpected punchline] + [Transition to value]
+```
+
+**Example:**
+```
+"ผมเป็นคนโง่..."
+[Pause for effect]
+"...ผมเสียเงิน 200,000 บาท กับการตลาดที่ไม่ได้ผล"
+[Laugh at self]
+"แต่ความโง่นี้...ทำให้ผมค้นพบ 3 สิ่งที่คุณต้องรู้..."
+```
+
+**Thai Examples:**
+```
+❌ Boring: "การตลาดสำคัญ"
+✅ Humor:
+"ผม: 'ทำโฆษณา Facebook ง่ายมาก!'"
+"ผมหลังเผา Budget 50,000: 'ผมขอโทษ...'"
+[Meme face]
+"นี่คือ 5 บทเรียนที่เจ็บปวด...แต่คุ้มค่า"
+
+❌ Boring: "ลองผลิตภัณฑ์ใหม่"
+✅ Humor:
+"เมื่อแฟนบอก 'ซื้ออะไรก็ได้ที่ถูกใจเธอ'"
+[Cut to: shopping bags everywhere]
+"ผมเลือก...ผิด 100%"
+[Sad face]
+"แต่ถ้ามี App นี้ตั้งแต่ตอนนั้น..."
+
+❌ Boring: "ทำงานอัตโนมัติ"
+✅ Humor:
+"คนอื่น: ตื่นเช้า workout ทำงาน 12 ชม."
+"ผม: นอนจนสาย...ทำงาน 4 ชม....แล้วดู Netflix"
+[Chill face]
+"เพราะผมมี...ระบบนี้"
+```
+
+**Why It Works:**
+- Humor disarms skepticism
+- Likability = trust
+- Viral potential (people share funny)
+
+**Use When:**
+- Casual brands (not luxury/formal)
+- Younger audience (Gen Z, Millennials)
+- Social media content
+- Building personal brand
+
+---
+
+### 7. Story Hook
+
+**What:** Start mid-story, create intrigue
+
+**Formula:**
+```
+"[Dramatic moment] ...but let me rewind..."
+```
+
+**Thai Example:**
+```
+"วันนั้น...ฉันมีเงินในบัญชีเหลือ 347 บาท"
+[Pause]
+"2 ปีต่อมา...รายได้ 500,000 บาท/เดือน"
+"สิ่งที่เปลี่ยนทุกอย่าง...เกิดขึ้นใน 1 คืน"
+```
+
+---
+
+### 8. Before-After-Bridge
+
+**Formula:**
+```
+"ก่อน: [สถานการณ์แย่]
+หลัง: [ผลลัพธ์ดี]
+วิธี: [สิ่งที่ใช้]"
+```
+
+**Thai Example:**
+```
+"Before:
+- ทำงาน 12 ชม./วัน
+- รายได้ 30,000 บาท/เดือน
+- เครียดทุกวัน
+
+After:
+- ทำงาน 4 ชม./วัน
+- รายได้ 200,000 บาท/เดือน
+- มีเวลาให้ครอบครัว
+
+สิ่งที่เปลี่ยนทุกอย่าง?
+[Framework นี้...]"
+```
+
+---
+
+### 9. Social Proof Opening
+
+**Formula:**
+```
+"[X people] ใช้แล้ว...[Result]"
+```
+
+**Thai Example:**
+```
+"10,247 คน...ใช้ระบบนี้แล้ว"
+[Fast-scroll ชื่อลูกค้า]
+"และเพิ่มยอดขายเฉลี่ย 347%"
+[Show testimonials flashing]
+"คุณจะเป็นคนต่อไป?"
+```
+
+---
+
+### 10. Authority Opening
+
+**Formula:**
+```
+"Featured in [Authority Source]"
+```
+
+**Thai Example:**
+```
+[Show logos: Forbes, TechCrunch, CNN]
+"ระบบนี้ถูกพูดถึงใน..."
+[Logos animate in]
+"แต่สิ่งที่สำคัญกว่า...คือผลลัพธ์ของคุณ"
+```
+
+---
+
+### 11. FOMO Opening
+
+**Formula:**
+```
+"ทุกคนมีแล้ว...เหลือคุณคนเดียว"
+```
+
+**Thai Example:**
+```
+"ในขณะที่คุณกำลังดูวิดีโอนี้..."
+[Screen split: You vs Others]
+"คู่แข่งของคุณ 1,247 คน...กำลังใช้ระบบนี้"
+[Show activity map with dots appearing]
+"คุณจะทันหรือเปล่า?"
+```
+
+---
+
+### 12. Contrast Opening
+
+**Formula:**
+```
+"คนส่วนใหญ่ทำ [X]...คนประสบความสำเร็จทำ [Y]"
+```
+
+**Thai Example:**
+```
+"คนทั่วไป: ทำงานหนักขึ้น
+คนรวย: ทำงานฉลาดขึ้น
+
+คนทั่วไป: ซื้อคอร์สเพิ่ม
+คนรวย: ใช้ระบบ 1 ตัวให้เต็มที่
+
+คนทั่วไป: ลงโฆษณามากขึ้น
+คนรวย: ลดโฆษณา...แต่เพิ่มกำไร
+
+นี่คือความแตกต่าง..."
+```
+
+---
+
+## 🎯 How to Choose the Right Hook
+
+**Decision Matrix:**
+
+| Your Goal | Best Hook | Why |
+|-----------|-----------|-----|
+| Stand out in crowded market | Pattern Interrupt | Breaks the pattern |
+| Show unbelievable result | Shock and Awe | Proof-first approach |
+| Educational content | Curiosity Gap | People want answers |
+| Pain-driven product | Problem-Solution | Empathy → Solution |
+| Limited-time offer | The Clock | Urgency → Action |
+| Build likability | Humor | Trust through laughter |
+| Transformation story | Before-After-Bridge | Clear contrast |
+| High trust needed | Authority/Social Proof | Borrowed credibility |
+| Competitive angle | Contrast | You vs Them |
+| Fear of missing | FOMO | Herd mentality |
+
+---
+
+## 📱 Platform-Specific Tips
+
+**YouTube (first 10 seconds):**
+```
+- Use Pattern Interrupt or Curiosity Gap
+- Verbal hook + Text overlay (double impact)
+- Reference specific viewer pain point
+- Promise clear outcome
+```
+
+**TikTok/Reels (first 1 second!):**
+```
+- Use Shock and Awe or Humor
+- Visual must be INSTANTLY compelling
+- Text hook appears immediately
+- No slow build-up (cut to chase!)
+```
+
+**Facebook Ads (first 3 seconds before Skip):**
+```
+- Use Problem-Solution or Social Proof
+- Show product immediately
+- Clear value proposition
+- Countdown for offers (The Clock)
+```
+
+**VSL (Video Sales Letter):**
+```
+- Use Story Hook or Before-After-Bridge
+- Build rapport first
+- Longer hook OK (30-60 seconds)
+- Emotional connection important
+```
+
+---
+
+## ✅ Video Hook Checklist
+
+**Before Publishing, Ask:**
+
+□ Does hook grab attention in 3 seconds?
+□ Is it relevant to target audience?
+□ Does it promise clear benefit/outcome?
+□ Is it different from 99% of competitors?
+□ Does it create curiosity/urgency?
+□ Does it transition smoothly to content?
+□ Have I tested 2-3 different hooks?
+
+**A/B Testing:**
+```
+Test: 3 different hooks (Pattern Interrupt vs Curiosity vs Problem-Solution)
+Measure: Retention at 3 seconds, 10 seconds, 30 seconds
+Winner: Highest retention = best hook
+```
+
+---
+
+**Thai Keywords:** วิดีโอ, เปิดวิดีโอ, hook, สำหรับวิดีโอ, TikTok, Reels, YouTube, Facebook video, วิดีโอโฆษณา, VSL, เว็บบินาร์
+
+**สรุป:** Master these 12 video opening hooks to increase retention 5-10X! Use Pattern Interrupt for crowded markets, Shock and Awe for unbelievable results, Curiosity Gap for education, Problem-Solution for pain-driven products, The Clock for urgency, and Humor for likability!
+
+---
+
 ## Common Mistakes (& วิธีแก้)
 
 ### Mistake #1: Generic Headlines
@@ -2623,3 +3120,26 @@ Test 3: Curiosity vs Direct Benefit
 เริ่มจาก [Quick Start Guide](#quick-start-guide) หรือ [Formula Finder](#formula-finder)
 
 ติดปัญหา? ไปที่ [Common Mistakes](#common-mistakes) เพื่อหาคำตอบ
+
+---
+
+## 🔥 ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 6: Execution of THE ULTIMATE STACK system.**
+
+### Same Layer (Execution - Load All 4):
+- `sales-copywriting-skill` - Sales pages, VSLs, webinars
+- `landing-page-conversion-skill` - CRO, A/B testing, 30-60% conversion
+- `nlp-copywriting-skill` - Meta-model, Milton model, reframing
+
+### Auto-Loading Modes:
+- **Default Stack (15 skills):** Triggers on "persuasion", "โน้มน้าว", "ขาย"
+- **Aggressive Stack (23 skills):** Triggers on "ขายปัง", "อดใจไม่ได้", "neuromarketing"
+- **Ultimate Stack (30 skills):** Triggers on "ultimate stack", "ใช้ทุกอาวุธ", "ควบคุมสมองเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x power
+3. **Expert:** Full Layer 6 + next layers → Ultimate persuasion
+
+**Power Level:** This skill + full stack = 850/1000 (maximum persuasion)

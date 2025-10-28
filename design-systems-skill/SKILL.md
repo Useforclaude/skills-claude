@@ -1,6 +1,6 @@
 ---
 name: design-systems-skill
-description: Master design system creation and maintenance for scalable, consistent UIs. Use for: design tokens (colors, typography, spacing), component libraries, documentation (Storybook), atomic design methodology, accessibility standards, design-dev handoff, version control for design, brand guidelines, and building production-ready design systems that scale across teams and products.
+description: Master design system creation and maintenance for scalable, consistent UIs. Use for: design tokens (colors, typography, spacing), component libraries, documentation (Storybook), atomic design methodology, accessibility standards, design-dev handoff, version control for design, brand guidelines, and building production-ready design systems that scale across teams and products. Also use for Thai keywords "ระบบดีไซน์", "design system", "design token", "สี", "ฟอนต์", "ระยะห่าง", "คอมโพเนนต์", "component library", "Storybook", "atomic design", "มาตรฐานการออกแบบ", "ส่งงานให้โปรแกรมเมอร์", "design handoff", "brand guideline", "แนวทางแบรนด์", "ระบบออกแบบที่ขยายได้", "ความสอดคล้อง", "UI สอดคล้อง".
 ---
 
 # 🎨 Design Systems Skill

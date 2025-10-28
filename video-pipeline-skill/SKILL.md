@@ -1,6 +1,6 @@
 ---
 name: video-pipeline-skill
-description: Master automated video production workflows and pipelines. Use for: video processing automation, batch operations, FFmpeg workflows, subtitle generation, audio dubbing pipelines, quality control, rendering optimization, and end-to-end video production systems from source to distribution.
+description: Master automated video production workflows and pipelines. Use for: video processing automation, batch operations, FFmpeg workflows, subtitle generation, audio dubbing pipelines, quality control, rendering optimization, and end-to-end video production systems from source to distribution.. Also use for Thai keywords "วิดีโอ", "คลิป", "ภาพเคลื่อนไหว", "วีดีโอ", "อัตโนมัติ", "ทำให้อัตโนมัติ", "automation", "ลดขั้นตอน", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content"
 ---
 
 # 🎬 Video Production Pipeline Skill
