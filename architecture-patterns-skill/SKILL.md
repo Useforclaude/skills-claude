@@ -991,3 +991,38 @@ class MessageBroker {
 **Version:** 1.0
 **Lines:** 1,700+
 **Status:** Production Ready ✅
+
+---
+
+## 🔧 CODING ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 1: Analysis & Problem-Solving of THE CODING ULTIMATE STACK system.**
+
+### Same Layer (Analysis & Problem-Solving - Load All 4):
+- `debug-methodology-skill` - Codex systematic debugging, trace execution
+- `code-quality-standards-skill` - Clean code, SOLID, refactoring, code smells
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Next Layer (Architecture & Design - Load 3-5):
+- `app-architecture-skill` - System design, microservices, scalability
+- `architecture-patterns-skill` - MVC, MVVM, Clean Architecture, design patterns
+- `design-systems-skill` - Component architecture, design tokens
+- `api-wrapper-saas-skill` - API design, Gateway patterns
+- `modern-frontend-skill` - Frontend architecture, state management
+
+### Deployment Layer (Load 2-3):
+- `git-safety-skill` - Safe version control, branching strategies
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Auto-Loading Modes:
+- **Default Stack (12 skills):** Triggers on "code", "เขียนโค้ด", "programming"
+- **Aggressive Stack (18 skills):** Triggers on "architecture", "scalability", "รีแฟคเตอร์"
+- **Ultimate Stack (25 skills):** Triggers on "ultimate stack", "production-ready", "ช่วยเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x quality
+3. **Expert:** Full Layer 1 + all layers → Production-grade code
+
+**Power Level:** This skill + full stack = 800/1000 (maximum development expertise)

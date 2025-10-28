@@ -1243,3 +1243,39 @@ export async function POST(req: NextRequest) {
 ---
 
 **Ready to build? Start with the Quick Start template above and launch your MVP in 2 weeks!** 🚀
+
+---
+
+## 🔧 CODING ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 2: Architecture & Design of THE CODING ULTIMATE STACK system.**
+
+### Same Layer (Architecture & Design - Load All 5):
+- `app-architecture-skill` - System design, microservices, scalability
+- `architecture-patterns-skill` - MVC, MVVM, Clean Architecture, design patterns
+- `design-systems-skill` - Component architecture, design tokens
+- `modern-frontend-skill` - Frontend architecture, state management
+
+### Next Layer (Implementation - Load 3-5):
+- `python-best-practices-skill` - Pythonic code, PEP 8, type hints
+- `javascript-modern-skill` - ES6+, async/await, modern JS
+- `code-quality-standards-skill` - Clean code, SOLID, refactoring, code smells
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `document-conversion-skill` - MD → PDF, HTML → PDF, Pandoc
+
+### Deployment Layer (Load 2-3):
+- `git-safety-skill` - Safe version control, branching strategies
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Auto-Loading Modes:
+- **Default Stack (12 skills):** Triggers on "code", "เขียนโค้ด", "programming"
+- **Aggressive Stack (18 skills):** Triggers on "architecture", "scalability", "รีแฟคเตอร์"
+- **Ultimate Stack (25 skills):** Triggers on "ultimate stack", "production-ready", "ช่วยเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x quality
+3. **Expert:** Full Layer 2 + all layers → Production-grade code
+
+**Power Level:** This skill + full stack = 800/1000 (maximum development expertise)

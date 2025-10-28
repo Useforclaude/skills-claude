@@ -824,3 +824,37 @@ git checkout <commit-hash> -- path/to/file
 **Lines:** 1,000+
 **Status:** Production Ready ✅
 **Based on:** CLAUDE.md Git Safety Protocol
+
+---
+
+## 🔧 CODING ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 4: Quality & Testing of THE CODING ULTIMATE STACK system.**
+
+### Same Layer (Quality & Testing - Load All 4):
+- `code-quality-standards-skill` - Clean code, SOLID, refactoring, code smells
+- `debug-methodology-skill` - Codex systematic debugging, trace execution
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Next Layer (Deployment & Collaboration - Load 3-5):
+- `git-safety-skill` - Safe version control, branching strategies
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `security-best-practices-skill` - OWASP, authentication, security audit
+- `document-conversion-skill` - MD → PDF, HTML → PDF, Pandoc
+
+### Deployment Layer (Load 2-3):
+- `git-safety-skill` - Safe version control, branching strategies
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Auto-Loading Modes:
+- **Default Stack (12 skills):** Triggers on "code", "เขียนโค้ด", "programming"
+- **Aggressive Stack (18 skills):** Triggers on "architecture", "scalability", "รีแฟคเตอร์"
+- **Ultimate Stack (25 skills):** Triggers on "ultimate stack", "production-ready", "ช่วยเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x quality
+3. **Expert:** Full Layer 4 + all layers → Production-grade code
+
+**Power Level:** This skill + full stack = 800/1000 (maximum development expertise)

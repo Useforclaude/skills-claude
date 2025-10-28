@@ -717,3 +717,41 @@ const html = `
 **Version:** 1.0
 **Lines:** 1,500+
 **Status:** Production Ready ✅
+
+---
+
+## 🔧 CODING ULTIMATE STACK: Must Load Together
+
+**This skill is Layer 3: Implementation of THE CODING ULTIMATE STACK system.**
+
+### Same Layer (Implementation - Load All 8):
+- `python-best-practices-skill` - Pythonic code, PEP 8, type hints
+- `code-quality-standards-skill` - Clean code, SOLID, refactoring, code smells
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `document-conversion-skill` - MD → PDF, HTML → PDF, Pandoc
+- `odoo-development-skill` - ERP development, Odoo customization
+- `excel-expert-skill` - Data manipulation, advanced Excel
+- `ffmpeg-video-processing-skill` - Video processing pipelines
+
+### Next Layer (Quality & Testing - Load 3-5):
+- `code-quality-standards-skill` - Clean code, SOLID, refactoring, code smells
+- `debug-methodology-skill` - Codex systematic debugging, trace execution
+- `security-best-practices-skill` - OWASP, authentication, security audit
+- `git-safety-skill` - Safe version control, branching strategies
+
+### Deployment Layer (Load 2-3):
+- `git-safety-skill` - Safe version control, branching strategies
+- `automation-workflows-skill` - Workflow automation, batch processing
+- `security-best-practices-skill` - OWASP, authentication, security audit
+
+### Auto-Loading Modes:
+- **Default Stack (12 skills):** Triggers on "code", "เขียนโค้ด", "programming"
+- **Aggressive Stack (18 skills):** Triggers on "architecture", "scalability", "รีแฟคเตอร์"
+- **Ultimate Stack (25 skills):** Triggers on "ultimate stack", "production-ready", "ช่วยเต็มที่"
+
+### Pro Workflow:
+1. **Novice:** Use this skill alone → Basic implementation
+2. **Intermediate:** This + 2-3 same-layer skills → 2-3x quality
+3. **Expert:** Full Layer 3 + all layers → Production-grade code
+
+**Power Level:** This skill + full stack = 800/1000 (maximum development expertise)
