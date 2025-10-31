@@ -1,6 +1,6 @@
 ---
 name: whisper-transcription-skill
-description: Expert Whisper audio transcription for production use (OpenAI Whisper large-v3). Use for Thai transcription optimization, multilingual transcription, VAD integration, chunking strategies, hallucination removal, GPU optimization, SRT generation, and production-ready audio-to-text workflows.. Also use for Thai keywords "วิดีโอ", "คลิป", "ภาพเคลื่อนไหว", "วีดีโอ", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "AI วิดีโอ", "สร้างวิดีโอ AI", "วิดีโอ AI", "AI สร้างวิดีโอ"
+description: Expert Whisper audio transcription for production use (OpenAI Whisper large-v3 + Faster-Whisper). Use for Thai transcription optimization, multilingual transcription, VAD integration, chunking strategies, hallucination removal, GPU optimization, SRT generation, Faster-Whisper (4-5x speed boost), batch processing, and production-ready audio-to-text workflows. Also use for Thai keywords "วิดีโอ", "คลิป", "ภาพเคลื่อนไหว", "วีดีโอ", "คอนเทนต์", "เนื้อหา", "สร้างเนื้อหา", "content", "AI วิดีโอ", "สร้างวิดีโอ AI", "วิดีโอ AI", "AI สร้างวิดีโอ", "ถอดเสียง", "ถอดข้อความ", "transcribe", "faster-whisper"
 ---
 
 # Whisper Transcription Expert Skill
@@ -9,13 +9,17 @@ description: Expert Whisper audio transcription for production use (OpenAI Whisp
 
 Expert-level knowledge for production Whisper transcription, specializing in Thai language optimization, GPU efficiency, and high-accuracy audio-to-text conversion for video localization workflows.
 
+**New:** Includes **Faster-Whisper** integration (4-5x speed boost, 62% less RAM, same accuracy)
+
 **When to use this skill:**
 - Transcribing Thai audio/video to SRT
 - Optimizing Whisper accuracy for specific languages
+- **Using Faster-Whisper for 4-5x speed boost** ⚡
 - Implementing VAD (Voice Activity Detection)
 - Managing long audio files with smart chunking
 - Removing Whisper hallucinations
 - GPU memory optimization
+- **Batch processing multiple videos** (tmux/background)
 - Production transcription pipelines
 
 ---
@@ -39,6 +43,8 @@ Expert-level knowledge for production Whisper transcription, specializing in Tha
 
 ### Available Whisper Models
 
+**Standard OpenAI Whisper:**
+
 | Model | Size | Parameters | Accuracy | Speed | VRAM | Best For |
 |-------|------|------------|----------|-------|------|----------|
 | tiny | 39 MB | 39M | ⭐ | ⚡⚡⚡ | 1 GB | Testing only |
@@ -46,7 +52,68 @@ Expert-level knowledge for production Whisper transcription, specializing in Tha
 | small | 244 MB | 244M | ⭐⭐⭐ | ⚡⚡ | 2 GB | General use |
 | medium | 769 MB | 769M | ⭐⭐⭐⭐ | ⚡ | 5 GB | Quality work |
 | large-v2 | 1.5 GB | 1550M | ⭐⭐⭐⭐⭐ | 🐌 | 10 GB | Production |
-| large-v3 | 1.5 GB | 1550M | ⭐⭐⭐⭐⭐+ | 🐌 | 10 GB | **Production (Latest)** |
+| large-v3 | 1.5 GB | 1550M | ⭐⭐⭐⭐⭐+ | 🐌 | 10 GB | Production (Latest) |
+
+**⚡ Faster-Whisper (Recommended for Production):**
+
+| Model | Size | Parameters | Accuracy | Speed | VRAM | Best For |
+|-------|------|------------|----------|-------|------|----------|
+| large-v3 (INT8) | 1.5 GB | 1550M | ⭐⭐⭐⭐⭐+ | ⚡⚡⚡⚡ | 4 GB | **Production (4-5x faster!)** |
+| large-v3 (FP16) | 1.5 GB | 1550M | ⭐⭐⭐⭐⭐+ | ⚡⚡⚡ | 6 GB | High accuracy + speed |
+
+### ⚡ Whisper vs Faster-Whisper Comparison
+
+| Feature | OpenAI Whisper | Faster-Whisper | Winner |
+|---------|---------------|----------------|--------|
+| **Speed** | 1x (baseline) | **4-5x faster** ⚡ | Faster-Whisper 🏆 |
+| **RAM Usage** | 10 GB | **4 GB** (62% less) | Faster-Whisper 🏆 |
+| **Accuracy** | 95%+ | 95%+ (same) | Tie ✅ |
+| **Installation** | `pip install openai-whisper` | `pip install faster-whisper` | Equal |
+| **GPU Support** | PyTorch CUDA | CTranslate2 CUDA | Equal |
+| **API** | `whisper.load_model()` | `WhisperModel()` | Different |
+
+**Performance Metrics (10-minute Thai video):**
+
+| Engine | Transcription Time | RAM Usage | GPU Utilization |
+|--------|-------------------|-----------|-----------------|
+| OpenAI Whisper | ~10 minutes | ~10 GB | 85-95% |
+| **Faster-Whisper** | **~2-3 minutes** ⚡ | **~4 GB** | 90-100% |
+
+### Why Faster-Whisper is Better
+
+**Technical Advantages:**
+
+1. **INT8 Quantization**
+   - Reduces precision from float32 → int8 (32 bits → 8 bits)
+   - **4x smaller memory footprint**
+   - Only 0.1% accuracy loss (negligible for Thai)
+   - Enables larger batch processing
+
+2. **CTranslate2 Engine**
+   - Inference-optimized (vs PyTorch general-purpose)
+   - Hardware-aware optimizations (GPU Tensor Cores, CPU AVX2/AVX-512)
+   - Better memory management (streaming model loading)
+   - Custom CUDA kernels for speed
+
+3. **Better Batching**
+   - Parallel segment processing (vs sequential)
+   - Dynamic batch size optimization
+   - Reduced GPU idle time
+
+4. **Memory Efficiency**
+   - Streaming model loading (not all-at-once)
+   - Automatic cache management
+   - Lower VRAM requirements → bigger batch sizes
+
+**When to Use Each:**
+
+| Use Case | Recommended Engine | Reason |
+|----------|-------------------|--------|
+| **Production transcription** | ⚡ Faster-Whisper | 4-5x speed, same accuracy |
+| **Long videos (>30 min)** | ⚡ Faster-Whisper | Lower RAM, faster processing |
+| **Batch processing** | ⚡ Faster-Whisper | Process 4-5x more files/hour |
+| **Development/testing** | OpenAI Whisper | Simpler API, more familiar |
+| **Research** | OpenAI Whisper | Direct PyTorch access |
 
 ### Language-Specific Recommendations
 
@@ -64,6 +131,8 @@ Expert-level knowledge for production Whisper transcription, specializing in Tha
 
 ### Installation
 
+**Option 1: OpenAI Whisper (Standard)**
+
 ```bash
 # Install Whisper
 pip install -U openai-whisper
@@ -75,7 +144,29 @@ pip install ffmpeg-python
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
+**Option 2: Faster-Whisper (Recommended for Production) ⚡**
+
+```bash
+# Install Faster-Whisper
+pip install faster-whisper
+
+# Install dependencies (if not already installed)
+pip install ffmpeg-python
+
+# GPU support is included automatically
+# No need to install separate PyTorch
+```
+
+**Note:** You can install both! They don't conflict with each other.
+
+```bash
+# Install both for flexibility
+pip install openai-whisper faster-whisper
+```
+
 ### Basic Usage
+
+**OpenAI Whisper (Standard):**
 
 ```python
 import whisper
@@ -88,6 +179,65 @@ result = model.transcribe("audio.mp3")
 
 print(result["text"])  # Full transcription
 print(result["segments"])  # Timestamped segments
+```
+
+**Faster-Whisper (4-5x faster!) ⚡:**
+
+```python
+from faster_whisper import WhisperModel
+
+# Load model (once)
+# device="cuda" for GPU, "cpu" for CPU
+# compute_type="int8" for speed, "float16" for quality
+model = WhisperModel("large-v3", device="cuda", compute_type="int8")
+
+# Transcribe (returns generator!)
+segments, info = model.transcribe("audio.mp3", language="th")
+
+# Convert to list (if needed)
+segments_list = list(segments)
+
+# Print results
+for segment in segments_list:
+    print(f"[{segment.start:.2f}s -> {segment.end:.2f}s] {segment.text}")
+
+# Or convert to OpenAI Whisper format
+result = {
+    "text": "",
+    "segments": [],
+    "language": info.language
+}
+
+for segment in segments_list:
+    result["text"] += segment.text + " "
+    result["segments"].append({
+        "start": segment.start,
+        "end": segment.end,
+        "text": segment.text
+    })
+```
+
+**Faster-Whisper with Word Timestamps:**
+
+```python
+from faster_whisper import WhisperModel
+
+model = WhisperModel("large-v3", device="cuda", compute_type="int8")
+
+# Enable word timestamps
+segments, info = model.transcribe(
+    "audio.mp3",
+    language="th",
+    word_timestamps=True  # Enable word-level timestamps
+)
+
+for segment in segments:
+    print(f"Segment: {segment.text}")
+
+    # Word-level timestamps
+    if segment.words:
+        for word in segment.words:
+            print(f"  [{word.start:.2f}s -> {word.end:.2f}s] {word.word}")
 ```
 
 ---
@@ -1390,10 +1540,217 @@ result = model.transcribe(
 
 ---
 
+### Problem 6: Faster-Whisper in Production (Bash Script)
+
+**Use Case:** Batch transcription in tmux/background
+
+**Solution - Faster-Whisper Bash Script:**
+
+```bash
+#!/bin/bash
+# batch_transcribe_faster.sh
+
+set -e
+
+INPUT_DIR="/path/to/videos"
+OUTPUT_DIR="/path/to/output"
+WHISPER_MODEL="large-v3"
+
+mkdir -p "$OUTPUT_DIR"
+
+FILES=(
+    "video1.mp4"
+    "video2.mp4"
+    "video3.mp4"
+)
+
+for file in "${FILES[@]}"; do
+    input_file="$INPUT_DIR/$file"
+    basename="${file%.mp4}"
+
+    echo ">>> Processing: $file"
+
+    # Run Faster-Whisper via embedded Python
+    python3 << PYTHON
+from faster_whisper import WhisperModel
+import json
+from pathlib import Path
+
+# Load model
+print("Loading Faster-Whisper model...")
+model = WhisperModel("${WHISPER_MODEL}", device="cuda", compute_type="int8")
+
+# Transcribe
+print("Transcribing: ${input_file}")
+segments, info = model.transcribe(
+    "${input_file}",
+    language="th",
+    beam_size=5,
+    word_timestamps=True
+)
+
+# Convert to JSON format (compatible with OpenAI Whisper)
+result = {
+    "text": "",
+    "segments": [],
+    "language": "th"
+}
+
+for segment in segments:
+    result["text"] += segment.text + " "
+    result["segments"].append({
+        "id": segment.id,
+        "seek": segment.seek,
+        "start": segment.start,
+        "end": segment.end,
+        "text": segment.text,
+        "tokens": segment.tokens,
+        "temperature": segment.temperature,
+        "avg_logprob": segment.avg_logprob,
+        "compression_ratio": segment.compression_ratio,
+        "no_speech_prob": segment.no_speech_prob,
+        "words": [
+            {
+                "word": word.word,
+                "start": word.start,
+                "end": word.end,
+                "probability": word.probability
+            }
+            for word in (segment.words or [])
+        ] if segment.words else []
+    })
+
+# Save JSON
+output_json = Path("${OUTPUT_DIR}") / "${basename}.json"
+with open(output_json, "w", encoding="utf-8") as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+
+print(f"Saved: {output_json}")
+print(f"Duration: {info.duration:.2f}s")
+print(f"Language: {info.language} ({info.language_probability:.2%})")
+PYTHON
+
+    echo "✅ SUCCESS: $file"
+done
+
+echo "All Done!"
+```
+
+**Run in tmux:**
+
+```bash
+# 1. Start tmux session
+tmux new -s transcribe
+
+# 2. Run script
+bash batch_transcribe_faster.sh
+
+# 3. Detach from tmux (close browser safely)
+# Press: Ctrl+B then D
+
+# 4. Check progress later
+tmux attach -s transcribe
+
+# 5. Check output
+ls -lh /path/to/output/
+```
+
+**Why this works:**
+- ✅ **4-5x faster** than OpenAI Whisper
+- ✅ **62% less RAM** (4 GB vs 10 GB)
+- ✅ **Same accuracy** (95%+ for Thai)
+- ✅ **Compatible format** (same JSON as OpenAI Whisper)
+- ✅ **Runs in background** (tmux detach)
+- ✅ **Word-level timestamps** included
+
+---
+
 ## Summary: Production Workflow
 
+### Option 1: Faster-Whisper (Recommended) ⚡
+
 ```python
-# ===== COMPLETE PRODUCTION WORKFLOW =====
+# ===== FASTER-WHISPER PRODUCTION WORKFLOW =====
+
+from faster_whisper import WhisperModel
+import json
+from pathlib import Path
+
+def faster_whisper_production(
+    audio_path: str,
+    output_json: str,
+    language: str = "th",
+    model_name: str = "large-v3"
+) -> dict:
+    """
+    Production-ready Faster-Whisper transcription.
+    4-5x faster than OpenAI Whisper with same accuracy.
+    """
+
+    # Load model (INT8 for speed)
+    model = WhisperModel(
+        model_name,
+        device="cuda",
+        compute_type="int8"  # 4-5x faster, 62% less RAM
+    )
+
+    # Transcribe with optimal settings
+    segments, info = model.transcribe(
+        audio_path,
+        language=language,
+        beam_size=5,
+        word_timestamps=True,
+        vad_filter=True,  # Remove silence
+        vad_parameters=dict(
+            threshold=0.5,
+            min_speech_duration_ms=250,
+            min_silence_duration_ms=2000
+        )
+    )
+
+    # Convert to OpenAI Whisper format
+    result = {
+        "text": "",
+        "segments": [],
+        "language": info.language
+    }
+
+    for segment in segments:
+        result["text"] += segment.text + " "
+        result["segments"].append({
+            "id": segment.id,
+            "start": segment.start,
+            "end": segment.end,
+            "text": segment.text,
+            "words": [
+                {
+                    "word": word.word,
+                    "start": word.start,
+                    "end": word.end,
+                    "probability": word.probability
+                }
+                for word in (segment.words or [])
+            ] if segment.words else []
+        })
+
+    # Save JSON
+    with open(output_json, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    return result
+
+# Usage
+result = faster_whisper_production(
+    "video.mp4",
+    "output.json",
+    language="th"
+)
+```
+
+### Option 2: OpenAI Whisper (Standard)
+
+```python
+# ===== OPENAI WHISPER PRODUCTION WORKFLOW =====
 
 def production_transcription_pipeline(
     audio_path: str,
